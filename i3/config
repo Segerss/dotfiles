@@ -8,6 +8,18 @@
 # i3 config file (v4)
 #
 # Please see https://i3wm.org/docs/userguide.html for a complete reference!
+# # Color shemes for windows 
+# set $bgcolor    #523d64
+# set $in-bgcolor #363636
+# set $text       #ffffff
+# set $u-bgcolor  #ff0000
+# set $indicator  #a8a3c1
+# set $in-text    #969696
+# #                       border          background      text            indicator (a line which shows where the next window will be placed)     
+# client.focused          $bgcolor        $bgcolor        $text           $indicator
+# client.unfocused        $in-bgcolor     $in-bgcolor     $in-text        $in-bgcolor
+# client.focused_inactive $in-bgcolor     $in-bgcolor     $in-text        $in-bgcolor
+# client.urgent           $u-bgcolor      $u-bgcolor      $text           $u-bgcolor
 
 set $mod Mod1
 
@@ -21,7 +33,7 @@ for_window [class="^.*"] border pixel 0
 # default_border none
 # default_floating_border none
 
-font pango:monospace 8
+font pango:Ubuntu 14
 
 # This font is widely installed, provides lots of unicode glyphs, right-to-left
 # text rendering and scalability on retina/hidpi displays (thanks to pango).
@@ -129,6 +141,16 @@ set $ws7 "7"
 set $ws8 "8"
 set $ws9 "9"
 set $ws10 "10"
+# set $ws1 "1:  Terminal"
+# set $ws2 "2:  Firefox"
+# set $ws3 "3: TBD"
+# set $ws4 "4:  Spotify"
+# set $ws5 "5"
+# set $ws6 "6"
+# set $ws7 "7"
+# set $ws8 "8"
+# set $ws9 "9"
+# set $ws10 "10:  Whatsapp"
 
 # switch to workspace
 bindsym $mod+1 workspace number $ws1
@@ -191,15 +213,29 @@ bindsym $mod+r mode "resize"
 # Start i3bar to display a workspace bar (plus the system information i3status
 # finds out, if available)
 bar {
-        status_command i3status
+        status_command i3status -c /home/seger/.config/i3status/i3status.conf
+        # colors {
+        #     background $bgcolor
+        #     separator #191919
+        #     #                       border          background      text
+        #     focused_workspace       $bgcolor        $bgcolor        $text
+        #     inactive_workspace      $in-bgcolor     $in-bgcolor     $text
+        #     urgent_workspace        $u-bgcolor      $u-bgcolor      $text   
+        #
+        # }
 }
 
 # exec_always --no-startup-id /usr/bin/feh --bg-scale '/home/seger/Documents/Wallpapers/Lightning.jpg'
-exec_always --no-startup-id "/home/seger/Documents/Wallpapers/randombackground.sh"
+exec_always --no-startup-id "/home/seger/.config/wallpapers/randombackground.sh"
 exec --no-startup-id compton
 
 # bindsym $mod+c cd $(find * -type d | fzf)
-# bindsym $mod+c exec --no-startup-id 'bash source ~/.startFuzzyFinder' 
+# bindsym $mod+c exec_always --no-startup-id 'source /home/seger/.config/startfuzzyfinder.sh' 
+# bindsym $mod+c exec_always --no-startup-id '/home/seger/.config/wallpapers/randombackground.sh'
 # bindsym $mod+Right exec "source /home/seger/.startFuzzyFinder"
 # bindsym $mod+d exec --no-startup-id cd $(find * -type d | fzf)
 # bindsym $mod+n exec /home/user/bin/startFuzzyFinder.sh
+# exec_always --no-startup-id xrandr --output eDP --mode 1920x1080
+
+# exec_always picom -f
+
