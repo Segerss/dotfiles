@@ -1,0 +1,21 @@
+[org/gnome/gedit/plugins]
+active-plugins=['filebrowser', 'sort', 'openlinks', 'docinfo', 'spell', 'modelines']
+
+[org/gnome/gedit/preferences/ui]
+show-tabs-mode='auto'
+
+[org/gnome/gedit/plugins/filebrowser]
+tree-view=true
+root='file:///'
+virtual-root='file:///home/seger/.config/alacritty'
+
+[org/gnome/gedit/preferences/editor]
+wrap-last-split-mode='word'
+scheme='solarized-dark'
+
+[org/gnome/gedit/state/window]
+bottom-panel-size=140
+side-panel-active-page='GeditWindowDocumentsPanel'
+side-panel-size=200
+size=(946, 989)
+state=128
