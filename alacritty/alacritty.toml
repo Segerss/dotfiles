@@ -1,0 +1,93 @@
+live_config_reload = true
+
+[bell]
+animation = "EaseOutExpo"
+color = "0xffffff"
+duration = 0
+
+[colors]
+draw_bold_text_with_bright_colors = false
+
+[colors.bright]
+black = "0x969896"
+blue = "0xb4b7b4"
+cyan = "0xa3685a"
+green = "0x282a2e"
+magenta = "0xe0e0e0"
+red = "0xde935f"
+white = "0xffffff"
+yellow = "0x373b41"
+
+[colors.cursor]
+cursor = "0xc5c8c6"
+text = "0x1d1f21"
+
+[colors.normal]
+black = "0x1d1f21"
+blue = "0x81a2be"
+cyan = "0x8abeb7"
+green = "0xb5bd68"
+magenta = "0xb294bb"
+red = "0xcc6666"
+white = "0xc5c8c6"
+yellow = "0xf0c674"
+
+[colors.primary]
+background = "0x1d1f21"
+foreground = "0xc5c8c6"
+
+[cursor]
+style = "Block"
+unfocused_hollow = true
+
+[font]
+size = 10.0
+
+[font.bold]
+family = "Sauce Code Pro Nerd Font"
+style = "Medium"
+
+[font.italic]
+family = "Sauce Code Pro Nerd Font"
+style = "Light Italic"
+
+[font.normal]
+family = "Sauce Code Pro Nerd Font"
+style = "Light"
+
+[font.glyph_offset]
+x = 0
+y = 0
+
+[font.offset]
+x = 0
+y = 0
+
+[[keyboard.bindings]]
+action = "SpawnNewInstance"
+key = "Return"
+mods = "Super|Shift"
+
+[mouse]
+hide_when_typing = true
+
+[scrolling]
+history = 10000
+multiplier = 3
+
+[selection]
+save_to_clipboard = false
+semantic_escape_chars = ",│`|:\"' ()[]{}<>"
+
+[window]
+dynamic_padding = false
+opacity = 1.0
+startup_mode = "Windowed"
+
+[window.dimensions]
+columns = 100
+lines = 85
+
+[window.padding]
+x = 0
+y = 0
