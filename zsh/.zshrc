@@ -102,6 +102,9 @@ source $ZSH/oh-my-zsh.sh
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 alias fuz="source ~/.config/startfuzzyfinder.sh" 
+
+alias dushs="du * -sh | sort -h" 
+alias dushas="du .* * -sh | sort -h" 
 # alias rbg="~/Documents/Wallpapers/randombackground.sh" 
 
 # alias androidstudio="(/usr/local/android-studio/bin/studio.sh &> /dev/null &)" 
