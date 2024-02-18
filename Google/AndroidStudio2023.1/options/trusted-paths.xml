@@ -1,0 +1,18 @@
+<application>
+  <component name="Trusted.Paths">
+    <option name="TRUSTED_PROJECT_PATHS">
+      <map>
+        <entry key="$USER_HOME$/projects/AndroidStudio" value="true" />
+        <entry key="$USER_HOME$/projects/MOBworkshop1" value="true" />
+        <entry key="$USER_HOME$/projects/TEST" value="true" />
+        <entry key="$USER_HOME$/projects/TEST2" value="true" />
+        <entry key="$USER_HOME$/projects/TEST36" value="true" />
+        <entry key="$USER_HOME$/projects/school/MOB" value="true" />
+        <entry key="$USER_HOME$/projects/school/MOB/MOBworkshop1" value="true" />
+        <entry key="$USER_HOME$/projects/school/MOB/TESTSTSDFSSDFSDF" value="true" />
+        <entry key="$USER_HOME$/projects/school/MOB/workshop2" value="true" />
+        <entry key="$USER_HOME$/projects/testssssss" value="true" />
+      </map>
+    </option>
+  </component>
+</application>

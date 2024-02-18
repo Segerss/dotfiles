@@ -1,0 +1,6 @@
+04:26:48.866914 Log continuation - Log started 2024-02-07T12:44:41.368744000Z
+04:26:49.175534 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenAvailableGeometryCalculated: Screen 0 work area is actually resized to: 480x32 x 480x1048
+04:26:49.179120 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenAvailableGeometryCalculated: Screen 1 work area is actually resized to: 1440x32 x 480x1048
+04:36:58.538691 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenAvailableGeometryCalculated: Screen 0 work area is actually resized to: 960x32 x 960x1048
+04:36:59.191375 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenAvailableGeometryCalculated: Screen 0 work area is actually resized to: 640x32 x 640x1048
+04:36:59.194583 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenAvailableGeometryCalculated: Screen 1 work area is actually resized to: 1440x32 x 480x1048

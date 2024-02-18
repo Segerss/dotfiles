@@ -3,6 +3,9 @@
 # Should you change your keyboard layout some time, delete
 # this file and re-run i3-config-wizard(1).
 #
+exec_always --no-startup-id "xrandr | grep 'HDMI-A-0 connected' && xrandr --output eDP1 --auto --output HDMI1 --auto --bottom-of eDP1"
+# exec_always --no-startup-id "xrandr --output HDMI-1 --auto --left-of LVDS-1"
+
 
 # i3 config file (v4)
 #
@@ -106,7 +109,7 @@ bindsym $mod+f fullscreen toggle
 
 # change container layout (stacked, tabbed, toggle split)
 bindsym $mod+s layout stacking
-bindsym $mod+w layout tabbed
+# bindsym $mod+w layout tabbed
 bindsym $mod+e layout toggle split
 
 # toggle tiling / floating
@@ -223,7 +226,7 @@ client.urgent           $u-bgcolor      $u-bgcolor      $text           $u-bgcol
 # Start i3bar to display a workspace bar (plus the system information i3status
 # finds out, if available)
 # bar {
-#         status_command i3status -c /home/seger/.config/i3status/i3status.conf
+#         # status_command i3status -c /home/seger/.config/i3status/i3status.conf
 #         # status_command i3blocks -c /home/seger/.config/i3blocks/i3blocks.conf
 #         i3bar_command i3bar --transparency
 # 	# tray_output none
@@ -243,12 +246,13 @@ client.urgent           $u-bgcolor      $u-bgcolor      $text           $u-bgcol
 exec_always --no-startup-id "/home/seger/.config/wallpapers/randombackground.sh"
 exec --no-startup-id compton
 
+bindsym $mod+w exec firefox
 # bindsym $mod+c cd $(find * -type d | fzf)
 # bindsym $mod+c exec_always --no-startup-id 'source /home/seger/.config/startfuzzyfinder.sh' 
 # bindsym $mod+c exec_always --no-startup-id '/home/seger/.config/wallpapers/randombackground.sh'
 # bindsym $mod+Right exec "source /home/seger/.startFuzzyFinder"
 # bindsym $mod+d exec --no-startup-id cd $(find * -type d | fzf)
-# bindsym $mod+n exec /home/user/bin/startFuzzyFinder.sh
+# bindsym $mod+n exec ~/.config/startfuzzyfinder.sh
 # exec_always --no-startup-id xrandr --output eDP --mode 1920x1080
 
 # exec_always picom -f 

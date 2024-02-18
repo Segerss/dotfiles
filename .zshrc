@@ -104,5 +104,6 @@ source $ZSH/oh-my-zsh.sh
 alias fuz="source ~/bin/startfuzzyfinder.sh" 
 alias rbg="~/Documents/Wallpapers/randombackground.sh" 
 
+alias androidstudio="/usr/local/android-studio/bin/studio.sh" 
 # source /usr/share/fzf/key-bindings.zsh
 # source /usr/share/fzf/completion.zsh

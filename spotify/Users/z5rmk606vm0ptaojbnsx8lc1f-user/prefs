@@ -1,0 +1,2 @@
+audio.play_bitrate_non_metered_migrated=true
+connect.dial_devices="[{\"address\":\"192.168.178.49\",\"app_state\":\"MISSING\",\"created_timestamp\":1708276233,\"device_id\":\"89d7462a-2af5-404a-9e4c-3dcd33594aee\",\"dial_location_url\":\"http://192.168.178.49:8091/dd.xml\",\"display_name\":\"Mediabox\",\"last_seen\":1708276773,\"manufacturer\":\"\",\"model_name\":\"VIP5002W-PRD\",\"public_ip\":\"2001:1c03:5488:c00:340f:b3c9:ee01:19c0\",\"wol\":{\"all_interfaces\":false,\"delay_ms\":50,\"mac\":\"6ca604d20a00\",\"port\":9,\"retries\":400}}]"

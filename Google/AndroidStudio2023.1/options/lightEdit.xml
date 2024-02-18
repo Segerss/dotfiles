@@ -1,0 +1,12 @@
+<application>
+  <component name="LightEdit">
+    <option name="sessionFiles">
+      <list>
+        <option value="file:///dev/null" />
+      </list>
+    </option>
+    <option name="frameInfo">
+      <frame x="958" y="2" width="964" height="1080" />
+    </option>
+  </component>
+</application>

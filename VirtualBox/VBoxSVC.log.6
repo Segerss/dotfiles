@@ -1,0 +1,51 @@
+00:00:00.000873 main     VirtualBox XPCOM Server 6.1.48_Ubuntu r159471 linux.amd64 (Sep 16 2023 05:46:21) release log
+00:00:00.000876 main     Log opened 2024-02-05T09:01:08.258540000Z
+00:00:00.000878 main     Build Type: release
+00:00:00.000881 main     OS Product: Linux
+00:00:00.000883 main     OS Release: 6.5.0-15-generic
+00:00:00.000885 main     OS Version: #15~22.04.1-Ubuntu SMP PREEMPT_DYNAMIC Fri Jan 12 18:54:30 UTC 2
+00:00:00.000905 main     DMI Product Name: 81YQ
+00:00:00.000911 main     DMI Product Version: IdeaPad 5 15ARE05
+00:00:00.000916 main     Firmware type: UEFI
+00:00:00.001191 main     Secure Boot: Enabled
+00:00:00.001234 main     Host RAM: 15341MB (14.9GB) total, 13917MB (13.5GB) available
+00:00:00.001237 main     Executable: /usr/lib/virtualbox/VBoxSVC
+00:00:00.001239 main     Process ID: 2697
+00:00:00.001240 main     Package type: LINUX_64BITS_GENERIC (OSE)
+00:00:00.002029 main     IPC socket path: /tmp/.vbox-seger-ipc/ipcd
+00:00:00.106884 nspr-2   VirtualBox: object creation starts
+00:00:00.107219 nspr-2   Home directory: '/home/seger/.config/VirtualBox'
+00:00:00.107797 nspr-2   Loading settings file "/home/seger/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:00:00.112701 nspr-2   USB: Unknown USB device detected (idVendor: 0x8087, idProduct: 0x0029)
+00:00:00.112926 nspr-2   Successfully initialised host USB using sysfs
+00:00:00.125432 nspr-2   NetIfAdpCtlOut: VBoxNetAdpCtl: Error while retrieving link speed for wlp1s0: VBoxNetAdpCtl: ioctl failed: Operation not supported
+00:00:00.127450 nspr-2   HostDnsMonitor: initializing
+00:00:00.127771 nspr-2   NAT: resolv.conf: nameserver 127.0.0.53
+00:00:00.127785 nspr-2   NAT: resolv.conf: ignoring "options edns0 trust-ad"
+00:00:00.127808 nspr-2   HostDnsMonitor: updating information
+00:00:00.127833 nspr-2   HostDnsMonitor: old information
+00:00:00.127875 nspr-2     no server entries
+00:00:00.127886 nspr-2     no domain set
+00:00:00.127894 nspr-2     no search string entries
+00:00:00.127901 nspr-2   HostDnsMonitor: new information
+00:00:00.127909 nspr-2     server 1: 127.0.0.53
+00:00:00.127917 nspr-2     domain: EDIMAX.SETUP.COM
+00:00:00.127925 nspr-2     search string 1: EDIMAX.SETUP.COM
+00:00:00.133569 nspr-2   VD: VDInit finished with VINF_SUCCESS
+00:00:00.134065 nspr-2   ERROR [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={027bc463-929c-40e8-bf16-fea557cd8e7e} aComponent={SystemPropertiesWrap} aText={Cannot determine default Guest Additions ISO location. Most likely they are not available}, preserve=false aResultDetail=0
+00:00:00.138602 nspr-2   Loading settings file "/home/seger/VirtualBoxVMs/MintVM/MintVM.vbox" with version "1.16-linux"
+00:00:00.139486 nspr-2   VirtualBox: object created
+00:00:01.961762 nspr-2   Launched VM: 2348814400 pid: 2757 (0xac5) frontend: GUI/Qt name: MintVM
+00:00:02.488187 nspr-6   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={70401eef-c8e9-466b-9660-45cb3e9979e4} aComponent={ExtPackManagerWrap} aText={No extension pack by the name 'Oracle VM VirtualBox Extension Pack' was found}, preserve=false aResultDetail=0
+00:00:02.613067 nspr-6   ERROR [COM]: aRC=VBOX_E_IPRT_ERROR (0x80bb0005) aIID={85632c68-b5bb-4316-a900-5eb28d3413df} aComponent={SessionMachine} aText={Saved screenshot data is not available (VERR_NOT_SUPPORTED)}, preserve=false aResultDetail=-37
+00:00:02.638367 nspr-6   NetIfAdpCtlOut: VBoxNetAdpCtl: Error while retrieving link speed for wlp1s0: VBoxNetAdpCtl: ioctl failed: Operation not supported
+00:28:32.549805 nspr-6   Saving settings file "/home/seger/VirtualBoxVMs/MintVM/MintVM.vbox" with version "1.16-linux"
+00:28:36.031676 nspr-8   Saving settings file "/home/seger/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:28:36.039581 nspr-6   Saving settings file "/home/seger/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:28:41.554419 main     VirtualBox: object deletion starts
+00:28:41.554491 main     ERROR [COM]: aRC=VBOX_E_OBJECT_IN_USE (0x80bb000c) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={Medium '/home/seger/VirtualBoxVMs/MintVM/MintVM.vdi' cannot be closed because it is still attached to 1 virtual machines}, preserve=false aResultDetail=0
+00:28:41.554881 main     HostDnsMonitor: shutting down ...
+00:28:41.560520 Watcher  ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={d0a0163f-e254-4e5b-a1f2-011cf991c38d} aComponent={VirtualBoxWrap} aText={The object is not ready}, preserve=false aResultDetail=0
+00:28:41.568230 main     HostDnsMonitor: shut down
+00:28:46.584191 main     {00007fea90019070} HostPowerServiceLinux::~HostPowerServiceLinux: RTThreadWait() for 5000 ms failed with VERR_TIMEOUT
+00:28:46.585224 main     VirtualBox: object deleted
