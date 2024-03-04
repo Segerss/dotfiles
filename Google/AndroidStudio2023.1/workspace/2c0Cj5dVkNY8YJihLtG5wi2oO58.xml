@@ -22,11 +22,21 @@
         </entry>
       </file>
       <file>
+        <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
+          <provider editor-type-id="android-manifest" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="264">
+              <caret line="12" column="46" lean-forward="true" selection-start-line="12" selection-start-column="46" selection-end-line="12" selection-end-column="46" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/workshop2/MainActivity.java">
           <provider selected="true" editor-type-id="android-source-code">
             <state>
-              <editor-state relative-caret-position="540">
-                <caret line="48" column="61" lean-forward="true" selection-start-line="48" selection-start-column="61" selection-end-line="48" selection-end-column="61" />
+              <editor-state relative-caret-position="616">
+                <caret line="44" column="31" selection-start-line="44" selection-start-column="31" selection-end-line="44" selection-end-column="31" />
               </editor-state>
               <multi-preview-state selected="">
                 <representations>
@@ -41,7 +51,7 @@
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/workshop2/Pokemon.java">
           <provider selected="true" editor-type-id="android-source-code">
             <state>
-              <editor-state relative-caret-position="242">
+              <editor-state relative-caret-position="154">
                 <caret line="7" column="25" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
               </editor-state>
               <multi-preview-state selected="">
@@ -62,8 +72,8 @@
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/workshop2/PokemonAdapter.java">
           <provider selected="true" editor-type-id="android-source-code">
             <state>
-              <editor-state relative-caret-position="546">
-                <caret line="41" column="13" lean-forward="true" selection-start-line="41" selection-start-column="13" selection-end-line="41" selection-end-column="13" />
+              <editor-state relative-caret-position="440">
+                <caret line="30" column="43" selection-start-line="30" selection-start-column="43" selection-end-line="30" selection-end-column="43" />
               </editor-state>
               <multi-preview-state selected="">
                 <representations>
@@ -83,8 +93,8 @@
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/workshop2/PokemonViewHolder.java">
           <provider selected="true" editor-type-id="android-source-code">
             <state>
-              <editor-state relative-caret-position="154">
-                <caret line="12" selection-start-line="12" selection-end-line="12" />
+              <editor-state relative-caret-position="352">
+                <caret line="21" column="57" selection-start-line="21" selection-start-column="57" selection-end-line="21" selection-end-column="57" />
               </editor-state>
               <multi-preview-state selected="">
                 <representations>
@@ -99,23 +109,23 @@
   </component>
   <component name="FileTypeUsageLocalSummary">
     <fileType name="Image">
-      <summary usageCount="4" lastUsed="1707295925749" />
+      <summary usageCount="12" lastUsed="1709044986675" />
     </fileType>
     <fileType name="JAVA">
-      <summary usageCount="12" lastUsed="1707295926179" />
+      <summary usageCount="44" lastUsed="1709044986962" />
     </fileType>
     <fileType name="XML">
-      <summary usageCount="6" lastUsed="1707295926117" />
+      <summary usageCount="23" lastUsed="1709045008746" />
     </fileType>
   </component>
   <component name="IdeDocumentHistory">
     <changedPaths>
-      <option value="$PROJECT_DIR$/app/src/main/java/com/example/workshop2/PokemonViewHolder.java" />
       <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" />
       <option value="$PROJECT_DIR$/app/src/main/java/com/example/workshop2/Pokemon.java" />
-      <option value="$PROJECT_DIR$/app/src/main/res/layout/pokemon_item.xml" />
-      <option value="$PROJECT_DIR$/app/src/main/java/com/example/workshop2/PokemonAdapter.java" />
       <option value="$PROJECT_DIR$/app/src/main/java/com/example/workshop2/MainActivity.java" />
+      <option value="$PROJECT_DIR$/app/src/main/java/com/example/workshop2/PokemonAdapter.java" />
+      <option value="$PROJECT_DIR$/app/src/main/java/com/example/workshop2/PokemonViewHolder.java" />
+      <option value="$PROJECT_DIR$/app/src/main/res/layout/pokemon_item.xml" />
     </changedPaths>
   </component>
   <component name="IgnoredFileRootStore">
@@ -127,10 +137,10 @@
   </component>
   <component name="LanguageUsageStatistics">
     <language id="JAVA">
-      <summary usageCount="12" lastUsage="1707295926179" />
+      <summary usageCount="44" lastUsage="1709044986962" />
     </language>
     <language id="XML">
-      <summary usageCount="6" lastUsage="1707295926117" />
+      <summary usageCount="23" lastUsage="1709045008746" />
     </language>
   </component>
   <component name="ProjectView">
@@ -146,6 +156,11 @@
             <path>
               <item name="workshop2" type="1abcf292:AndroidViewProjectNode" />
               <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="manifests" type="f94875db:AndroidManifestsGroupNode" />
+            </path>
+            <path>
+              <item name="workshop2" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
               <item name="java" type="edd41e36:AndroidSourceTypeNode" />
             </path>
             <path>
@@ -153,6 +168,12 @@
               <item name="app" type="feadf853:AndroidModuleNode" />
               <item name="java" type="edd41e36:AndroidSourceTypeNode" />
               <item name="dir{file:///home/seger/projects/school/MOB/workshop2/app/src/main/java/com/example/workshop2}" type="cbb59c9e:AndroidPsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="workshop2" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+              <item name="dir{file:///home/seger/projects/school/MOB/workshop2/app/src/androidTest/java/com/example/workshop2}" type="cbb59c9e:AndroidPsiDirectoryNode" />
             </path>
             <path>
               <item name="workshop2" type="1abcf292:AndroidViewProjectNode" />
@@ -175,8 +196,8 @@
           <select />
         </subPane>
       </pane>
-      <pane id="ProjectPane" />
       <pane id="PackagesPane" />
+      <pane id="ProjectPane" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -199,8 +220,9 @@
     </tool-windows>
   </component>
   <component name="ToolWindowManager">
+    <editor active="true" />
     <layoutV2>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17265625" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17213541" />
       <window_info id="Commit" order="1" weight="0.25" />
       <window_info id="Resources Explorer" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" order="0" />
@@ -213,11 +235,11 @@
       <window_info anchor="bottom" id="Debug" order="7" show_stripe_button="false" weight="0.41364503" />
       <window_info anchor="right" id="Layout Validation" show_stripe_button="false" />
       <window_info anchor="right" id="Notifications" order="0" weight="0.22994792" />
-      <window_info anchor="right" id="Gradle" order="1" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="1" visible="true" weight="0.2502604" />
       <window_info anchor="right" id="Device Manager" order="2" weight="0.25" />
       <window_info anchor="right" id="Device Manager 2" order="3" weight="0.25" />
-      <window_info active="true" anchor="right" id="Running Devices" order="4" visible="true" weight="0.2643229" />
-      <unified_weights bottom="0.18368322" left="0.17265625" right="0.2643229" />
+      <window_info anchor="right" id="Running Devices" order="4" weight="0.2643229" />
+      <unified_weights bottom="0.18368322" left="0.17213541" right="0.2502604" />
     </layoutV2>
     <layout-to-restore>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3296875" />
@@ -238,9 +260,9 @@
       <unified_weights left="0.3296875" />
     </layout-to-restore>
     <recentWindows>
+      <value>Project</value>
       <value>Running Devices</value>
       <value>Run</value>
-      <value>Project</value>
       <value>Logcat</value>
       <value>Notifications</value>
       <value>Debug</value>
@@ -252,26 +274,30 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="761" y="235" width="391" height="616" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1707240736840" />
-    <state x="713" y="319" width="487" height="448" key="AndroidCreateXmlResourceDialog" timestamp="1707241448979">
+    <state x="713" y="319" width="487" height="448" key="AndroidCreateXmlResourceDialog" timestamp="1708512780243">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="713" y="319" width="487" height="448" key="AndroidCreateXmlResourceDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1707241448979" />
-    <state width="1838" height="150" key="GridCell.Tab.0.bottom" timestamp="1707297516257">
+    <state x="713" y="319" width="487" height="448" key="AndroidCreateXmlResourceDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1708512780243" />
+    <state x="743" y="300" width="428" height="486" key="FileChooserDialogImpl" timestamp="1708365696579">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1838" height="150" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1707297516257" />
-    <state width="1838" height="150" key="GridCell.Tab.0.center" timestamp="1707297516257">
+    <state x="743" y="300" width="428" height="486" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1708365696579" />
+    <state width="878" height="150" key="GridCell.Tab.0.bottom" timestamp="1708365780750">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1838" height="150" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1707297516257" />
-    <state width="1838" height="150" key="GridCell.Tab.0.left" timestamp="1707297516257">
+    <state width="878" height="150" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1708365780750" />
+    <state width="878" height="150" key="GridCell.Tab.0.center" timestamp="1708365780750">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1838" height="150" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1707297516257" />
-    <state width="1838" height="150" key="GridCell.Tab.0.right" timestamp="1707297516257">
+    <state width="878" height="150" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1708365780750" />
+    <state width="878" height="150" key="GridCell.Tab.0.left" timestamp="1708365780750">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1838" height="150" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1707297516257" />
+    <state width="878" height="150" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1708365780750" />
+    <state width="878" height="150" key="GridCell.Tab.0.right" timestamp="1708365780750">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="878" height="150" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1708365780750" />
     <state width="1838" height="391" key="GridCell.Tab.1.bottom" timestamp="1707294948780">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -292,14 +318,21 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="798" y="317" width="317" height="452" key="refactoring.ChangeSignatureDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1707296963179" />
+    <state x="622" y="242" key="run.anything.popup" timestamp="1708364708733">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="622" y="242" key="run.anything.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1708364708733" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/img.png" />
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/workshop2/PokemonViewHolder.java">
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/bulbasaur.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/workshop2/PokemonAdapter.java">
       <provider selected="true" editor-type-id="android-source-code">
         <state>
-          <editor-state relative-caret-position="154">
-            <caret line="12" selection-start-line="12" selection-end-line="12" />
+          <editor-state relative-caret-position="440">
+            <caret line="30" column="43" selection-start-line="30" selection-start-column="43" selection-end-line="30" selection-end-column="43" />
           </editor-state>
           <multi-preview-state selected="">
             <representations>
@@ -309,16 +342,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
-      <provider selected="true" editor-type-id="android-designer2" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/bulbasaur.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/workshop2/Pokemon.java">
       <provider selected="true" editor-type-id="android-source-code">
         <state>
-          <editor-state relative-caret-position="242">
+          <editor-state relative-caret-position="154">
             <caret line="7" column="25" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
           </editor-state>
           <multi-preview-state selected="">
@@ -329,14 +356,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/pokemon_item.xml">
-      <provider selected="true" editor-type-id="android-designer2" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/workshop2/PokemonAdapter.java">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/workshop2/PokemonViewHolder.java">
       <provider selected="true" editor-type-id="android-source-code">
         <state>
-          <editor-state relative-caret-position="546">
-            <caret line="41" column="13" lean-forward="true" selection-start-line="41" selection-start-column="13" selection-end-line="41" selection-end-column="13" />
+          <editor-state relative-caret-position="352">
+            <caret line="21" column="57" selection-start-line="21" selection-start-column="57" selection-end-line="21" selection-end-column="57" />
           </editor-state>
           <multi-preview-state selected="">
             <representations>
@@ -349,14 +373,28 @@
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/workshop2/MainActivity.java">
       <provider selected="true" editor-type-id="android-source-code">
         <state>
-          <editor-state relative-caret-position="540">
-            <caret line="48" column="61" lean-forward="true" selection-start-line="48" selection-start-column="61" selection-end-line="48" selection-end-column="61" />
+          <editor-state relative-caret-position="616">
+            <caret line="44" column="31" selection-start-line="44" selection-start-column="31" selection-end-line="44" selection-end-column="31" />
           </editor-state>
           <multi-preview-state selected="">
             <representations>
               <list />
             </representations>
           </multi-preview-state>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/pokemon_item.xml">
+      <provider selected="true" editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
+      <provider selected="true" editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
+      <provider editor-type-id="android-manifest" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" column="46" lean-forward="true" selection-start-line="12" selection-start-column="46" selection-end-line="12" selection-end-column="46" />
         </state>
       </provider>
     </entry>

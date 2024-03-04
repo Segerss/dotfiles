@@ -113,22 +113,48 @@
             </RecentProjectMetaInfo>
           </value>
         </entry>
-        <entry key="$USER_HOME$/projects/school/MOB/workshop2">
+        <entry key="$USER_HOME$/projects/school/MOB/MyFragmentapplication">
           <value>
-            <RecentProjectMetaInfo frameTitle="workshop2 – MainActivity.java [workshop2.app.main]" opened="true" projectWorkspaceId="2c0Cj5dVkNY8YJihLtG5wi2oO58">
-              <option name="activationTimestamp" value="1707297516265" />
+            <RecentProjectMetaInfo frameTitle="MyFragment application – MainActivity.java [MyFragment_application.app.main]" projectWorkspaceId="2cb25LCa1ziWvMLb4UJYlih5nXt">
+              <option name="activationTimestamp" value="1708946972211" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="AI-231.9392.1.2311.11330709" />
-              <option name="buildTimestamp" value="1705622039321" />
+              <option name="buildTimestamp" value="1705622024350" />
+              <frame x="-2" y="2" width="964" height="1080" />
+              <option name="productionCode" value="AI" />
+              <option name="projectOpenTimestamp" value="1708946226954" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/projects/school/MOB/workshop2">
+          <value>
+            <RecentProjectMetaInfo frameTitle="workshop2 – AndroidManifest.xml [workshop2.app.main]" projectWorkspaceId="2c0Cj5dVkNY8YJihLtG5wi2oO58">
+              <option name="activationTimestamp" value="1709045019181" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="AI-231.9392.1.2311.11330709" />
+              <option name="buildTimestamp" value="1705621980247" />
               <frame x="-2" y="2" width="1924" height="1080" />
               <option name="productionCode" value="AI" />
-              <option name="projectOpenTimestamp" value="1707295926338" />
+              <option name="projectOpenTimestamp" value="1709044987113" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/projects/school/MOB/Eindopdracht">
+          <value>
+            <RecentProjectMetaInfo frameTitle="Eindopdracht – AndroidManifest.xml [Eindopdracht.app.main]" opened="true" projectWorkspaceId="2cu26khlBkE7Omtu6Y0KRhTW1p3">
+              <option name="activationTimestamp" value="1709047677420" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="AI-231.9392.1.2311.11330709" />
+              <option name="buildTimestamp" value="1705621980247" />
+              <frame x="-2" y="2" width="1924" height="1080" />
+              <option name="productionCode" value="AI" />
+              <option name="projectOpenTimestamp" value="1709045020221" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
       </map>
     </option>
-    <option name="lastOpenedProject" value="$USER_HOME$/projects/school/MOB/workshop2" />
+    <option name="lastOpenedProject" value="$USER_HOME$/projects/school/MOB/Eindopdracht" />
     <option name="lastProjectLocation" value="$USER_HOME$/projects/school/MOB" />
   </component>
 </application>

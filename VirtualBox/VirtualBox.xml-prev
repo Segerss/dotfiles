@@ -13,17 +13,18 @@
       <ExtraDataItem name="GUI/GuestControl/FileManagerVisiblePanels" value="SessionPanel"/>
       <ExtraDataItem name="GUI/HideDescriptionForWizards" value="NewVM"/>
       <ExtraDataItem name="GUI/LastItemSelected" value="m=MintVM"/>
-      <ExtraDataItem name="GUI/LastWindowPosition" value="1920,0,2560,1440"/>
+      <ExtraDataItem name="GUI/LastWindowPosition" value="0,32,1920,1048"/>
       <ExtraDataItem name="GUI/LogViewerOptions" value="monospace,noFontStyleName,9"/>
       <ExtraDataItem name="GUI/RecentFolderCD" value="/home/seger/VirtualBoxVMs"/>
-      <ExtraDataItem name="GUI/RecentListCD" value="/home/seger/VirtualBoxVMs/linuxmint-21.3-cinnamon-64bit.iso"/>
-      <ExtraDataItem name="GUI/SplitterSizes" value="845,1714"/>
-      <ExtraDataItem name="GUI/SuppressMessages" value="confirmInputCapture,remindAboutAutoCapture"/>
+      <ExtraDataItem name="GUI/RecentListCD" value="/home/seger/VirtualBoxVMs/Win10_22H2_EnglishInternational_x64v1.iso,/home/seger/VirtualBoxVMs/linuxmint-21.3-cinnamon-64bit.iso"/>
+      <ExtraDataItem name="GUI/SplitterSizes" value="634,1285"/>
+      <ExtraDataItem name="GUI/SuppressMessages" value="confirmInputCapture,remindAboutAutoCapture,remindAboutMouseIntegration"/>
       <ExtraDataItem name="GUI/Toolbar" value="false"/>
-      <ExtraDataItem name="GUI/Tools/LastItemsSelected" value="Welcome,Details"/>
+      <ExtraDataItem name="GUI/Tools/LastItemsSelected" value="Welcome,Snapshots"/>
     </ExtraData>
     <MachineRegistry>
       <MachineEntry uuid="{79a3c752-318d-40d9-9bd5-8b55b4528fd4}" src="/home/seger/VirtualBoxVMs/MintVM/MintVM.vbox"/>
+      <MachineEntry uuid="{27deb4c9-787f-4b5f-880b-5ea9615985e7}" src="/home/seger/VirtualBoxVMs/Windows/Windows.vbox"/>
     </MachineRegistry>
     <NetserviceRegistry>
       <DHCPServers>
