@@ -1,0 +1,15 @@
+2024/03/14-15:30:21.589 4673 Reusing MANIFEST /home/seger/.config/betaflight-configurator/Default/Session Storage/MANIFEST-000001
+2024/03/14-15:30:21.590 4673 Recovering log #36
+2024/03/14-15:30:21.591 4673 Reusing old log /home/seger/.config/betaflight-configurator/Default/Session Storage/000036.log 
+2024/03/14-15:36:42.465 4673 Level-0 table #40: started
+2024/03/14-15:36:42.472 4673 Level-0 table #40: 192036 bytes OK
+2024/03/14-15:36:42.476 4673 Delete type=0 #36
+2024/03/14-15:36:42.477 4673 Compacting 4@0 + 1@1 files
+2024/03/14-15:36:42.483 4673 Generated table #41@0: 157 keys, 194653 bytes
+2024/03/14-15:36:42.484 4673 Compacted 4@0 + 1@1 files => 194653 bytes
+2024/03/14-15:36:42.486 4673 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/03/14-15:36:42.487 4673 Delete type=2 #40
+2024/03/14-15:36:42.487 4673 Delete type=2 #31
+2024/03/14-15:36:42.487 4673 Delete type=2 #37
+2024/03/14-15:36:42.487 4673 Delete type=2 #33
+2024/03/14-15:36:42.487 4673 Delete type=2 #35

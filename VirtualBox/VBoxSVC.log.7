@@ -1,55 +1,43 @@
-00:00:00.000635 main     VirtualBox XPCOM Server 6.1.50_Ubuntu r161033 linux.amd64 (Jan 23 2024 12:29:45) release log
-00:00:00.000641 main     Log opened 2024-02-29T13:13:28.902325000Z
-00:00:00.000644 main     Build Type: release
-00:00:00.000652 main     OS Product: Linux
-00:00:00.000655 main     OS Release: 6.5.0-18-generic
-00:00:00.000658 main     OS Version: #18~22.04.1-Ubuntu SMP PREEMPT_DYNAMIC Wed Feb  7 11:40:03 UTC 2
-00:00:00.000705 main     DMI Product Name: 81YQ
-00:00:00.000722 main     DMI Product Version: IdeaPad 5 15ARE05
-00:00:00.000736 main     Firmware type: UEFI
-00:00:00.001131 main     Secure Boot: Enabled
-00:00:00.001234 main     Host RAM: 15341MB (14.9GB) total, 12960MB (12.6GB) available
-00:00:00.001242 main     Executable: /usr/lib/virtualbox/VBoxSVC
-00:00:00.001244 main     Process ID: 41712
-00:00:00.001247 main     Package type: LINUX_64BITS_GENERIC (OSE)
-00:00:00.003524 main     IPC socket path: /tmp/.vbox-seger-ipc/ipcd
-00:00:00.108831 nspr-2   VirtualBox: object creation starts
-00:00:00.108984 nspr-2   Home directory: '/home/seger/.config/VirtualBox'
-00:00:00.109276 nspr-2   Loading settings file "/home/seger/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
-00:00:00.111558 nspr-2   USB: Unknown USB device detected (idVendor: 0x8087, idProduct: 0x0029)
-00:00:00.111754 nspr-2   Successfully initialised host USB using sysfs
-00:00:00.121878 nspr-2   NetIfAdpCtlOut: VBoxNetAdpCtl: Error while retrieving link speed for wlp1s0: VBoxNetAdpCtl: ioctl failed: Operation not supported
-00:00:00.122912 nspr-2   HostDnsMonitor: initializing
-00:00:00.123223 nspr-2   NAT: resolv.conf: nameserver 127.0.0.53
-00:00:00.123239 nspr-2   NAT: resolv.conf: ignoring "options edns0 trust-ad"
-00:00:00.123254 nspr-2   HostDnsMonitor: updating information
-00:00:00.123282 nspr-2   HostDnsMonitor: old information
-00:00:00.123290 nspr-2     no server entries
-00:00:00.123297 nspr-2     no domain set
-00:00:00.123305 nspr-2     no search string entries
-00:00:00.123313 nspr-2   HostDnsMonitor: new information
-00:00:00.123320 nspr-2     server 1: 127.0.0.53
-00:00:00.123329 nspr-2     domain: .
-00:00:00.123336 nspr-2     search string 1: .
-00:00:00.127548 nspr-2   VD: VDInit finished with VINF_SUCCESS
-00:00:00.127678 nspr-2   ERROR [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={027bc463-929c-40e8-bf16-fea557cd8e7e} aComponent={SystemPropertiesWrap} aText={Cannot determine default Guest Additions ISO location. Most likely they are not available}, preserve=false aResultDetail=0
-00:00:00.135251 nspr-2   Loading settings file "/home/seger/VirtualBoxVMs/MintVM/MintVM.vbox" with version "1.16-linux"
-00:00:00.136245 nspr-2   Loading settings file "/home/seger/VirtualBoxVMs/Windows/Windows.vbox" with version "1.15-linux"
-00:00:00.137946 nspr-2   VirtualBox: object created
-00:00:00.145457 nspr-2   Launched VM: 1275489616 pid: 41730 (0xa302) frontend: GUI/Qt name: Windows
-00:00:01.058745 nspr-3   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={70401eef-c8e9-466b-9660-45cb3e9979e4} aComponent={ExtPackManagerWrap} aText={No extension pack by the name 'Oracle VM VirtualBox Extension Pack' was found}, preserve=false aResultDetail=0
-00:00:01.097753 nspr-5   ERROR [COM]: aRC=VBOX_E_IPRT_ERROR (0x80bb0005) aIID={85632c68-b5bb-4316-a900-5eb28d3413df} aComponent={SessionMachine} aText={Saved screenshot data is not available (VERR_NOT_SUPPORTED)}, preserve=false aResultDetail=-37
-00:00:01.116182 nspr-5   NetIfAdpCtlOut: VBoxNetAdpCtl: Error while retrieving link speed for wlp1s0: VBoxNetAdpCtl: ioctl failed: Operation not supported
-00:00:51.881702 nspr-5   Saving settings file "/home/seger/VirtualBoxVMs/Windows/Windows.vbox" with version "1.15-linux"
-00:00:52.282767 nspr-4   Saving settings file "/home/seger/VirtualBoxVMs/Windows/Windows.vbox" with version "1.15-linux"
-00:03:06.783824 nspr-6   Saving settings file "/home/seger/VirtualBoxVMs/Windows/Windows.vbox" with version "1.15-linux"
-00:03:13.042680 nspr-6   Saving settings file "/home/seger/VirtualBoxVMs/Windows/Windows.vbox" with version "1.15-linux"
-01:02:28.712780 nspr-2   Saving settings file "/home/seger/VirtualBoxVMs/Windows/Windows.vbox" with version "1.15-linux"
-01:02:34.327341 main     VirtualBox: object deletion starts
-01:02:34.327448 main     ERROR [COM]: aRC=VBOX_E_OBJECT_IN_USE (0x80bb000c) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={Medium '/home/seger/VirtualBoxVMs/MintVM/MintVM.vdi' cannot be closed because it is still attached to 1 virtual machines}, preserve=false aResultDetail=0
-01:02:34.327759 main     ERROR [COM]: aRC=VBOX_E_OBJECT_IN_USE (0x80bb000c) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={Medium '/home/seger/VirtualBoxVMs/Windows/Windows.vdi' cannot be closed because it is still attached to 1 virtual machines}, preserve=false aResultDetail=0
-01:02:34.328429 main     HostDnsMonitor: shutting down ...
-01:02:34.343404 main     HostDnsMonitor: shut down
-01:02:34.722332 Watcher  ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={d0a0163f-e254-4e5b-a1f2-011cf991c38d} aComponent={VirtualBoxWrap} aText={The object is not ready}, preserve=false aResultDetail=0
-01:02:39.363707 main     {00007f934c020f30} HostPowerServiceLinux::~HostPowerServiceLinux: RTThreadWait() for 5000 ms failed with VERR_TIMEOUT
-01:02:39.364386 main     VirtualBox: object deleted
+00:00:00.001123 main     VirtualBox XPCOM Server 6.1.50_Ubuntu r161033 linux.amd64 (Jan 23 2024 12:29:45) release log
+00:00:00.001127 main     Log opened 2024-03-11T13:07:47.897913000Z
+00:00:00.001129 main     Build Type: release
+00:00:00.001134 main     OS Product: Linux
+00:00:00.001136 main     OS Release: 6.5.0-21-generic
+00:00:00.001138 main     OS Version: #21~22.04.1-Ubuntu SMP PREEMPT_DYNAMIC Fri Feb  9 13:32:52 UTC 2
+00:00:00.001169 main     DMI Product Name: 81YQ
+00:00:00.001177 main     DMI Product Version: IdeaPad 5 15ARE05
+00:00:00.001185 main     Firmware type: UEFI
+00:00:00.001413 main     Secure Boot: Enabled
+00:00:00.001490 main     Host RAM: 15341MB (14.9GB) total, 13312MB (13.0GB) available
+00:00:00.001495 main     Executable: /usr/lib/virtualbox/VBoxSVC
+00:00:00.001497 main     Process ID: 3217
+00:00:00.001498 main     Package type: LINUX_64BITS_GENERIC (OSE)
+00:00:00.002768 main     IPC socket path: /tmp/.vbox-seger-ipc/ipcd
+00:00:00.107619 nspr-2   VirtualBox: object creation starts
+00:00:00.107891 nspr-2   Home directory: '/home/seger/.config/VirtualBox'
+00:00:00.108345 nspr-2   Loading settings file "/home/seger/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:00:00.112014 nspr-2   USB: Unknown USB device detected (idVendor: 0x8087, idProduct: 0x0029)
+00:00:00.112186 nspr-2   Successfully initialised host USB using sysfs
+00:00:00.120189 nspr-2   NetIfAdpCtlOut: VBoxNetAdpCtl: Error while retrieving link speed for wlp1s0: VBoxNetAdpCtl: ioctl failed: Operation not supported
+00:00:00.121525 nspr-2   HostDnsMonitor: initializing
+00:00:00.121923 nspr-2   NAT: resolv.conf: nameserver 127.0.0.53
+00:00:00.121935 nspr-2   NAT: resolv.conf: ignoring "options edns0 trust-ad"
+00:00:00.121949 nspr-2   HostDnsMonitor: updating information
+00:00:00.121973 nspr-2   HostDnsMonitor: old information
+00:00:00.121978 nspr-2     no server entries
+00:00:00.121982 nspr-2     no domain set
+00:00:00.121986 nspr-2     no search string entries
+00:00:00.121989 nspr-2   HostDnsMonitor: new information
+00:00:00.121994 nspr-2     server 1: 127.0.0.53
+00:00:00.121998 nspr-2     domain: wifi.owb.avans.nl
+00:00:00.122002 nspr-2     search string 1: wifi.owb.avans.nl
+00:00:00.125960 nspr-2   VD: VDInit finished with VINF_SUCCESS
+00:00:00.126449 nspr-2   ERROR [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={027bc463-929c-40e8-bf16-fea557cd8e7e} aComponent={SystemPropertiesWrap} aText={Cannot determine default Guest Additions ISO location. Most likely they are not available}, preserve=false aResultDetail=0
+00:00:00.132226 nspr-2   Loading settings file "/home/seger/VirtualBoxVMs/MintVM/MintVM.vbox" with version "1.16-linux"
+00:00:00.133298 nspr-2   Loading settings file "/home/seger/VirtualBoxVMs/Windows/Windows.vbox" with version "1.15-linux"
+00:00:00.134676 nspr-2   VirtualBox: object created
+00:00:00.140079 nspr-2   Launched VM: 805309920 pid: 3236 (0xca4) frontend: GUI/Qt name: Windows
+00:00:00.965266 nspr-3   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={70401eef-c8e9-466b-9660-45cb3e9979e4} aComponent={ExtPackManagerWrap} aText={No extension pack by the name 'Oracle VM VirtualBox Extension Pack' was found}, preserve=false aResultDetail=0
+00:00:00.996387 nspr-3   ERROR [COM]: aRC=VBOX_E_IPRT_ERROR (0x80bb0005) aIID={85632c68-b5bb-4316-a900-5eb28d3413df} aComponent={SessionMachine} aText={Saved screenshot data is not available (VERR_NOT_SUPPORTED)}, preserve=false aResultDetail=-37
+00:00:01.006405 nspr-3   NetIfAdpCtlOut: VBoxNetAdpCtl: Error while retrieving link speed for wlp1s0: VBoxNetAdpCtl: ioctl failed: Operation not supported
+01:32:52.018306 nspr-5   Saving settings file "/home/seger/VirtualBoxVMs/Windows/Windows.vbox" with version "1.15-linux"

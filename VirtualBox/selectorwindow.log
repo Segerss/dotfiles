@@ -1,18 +1,26 @@
-00:00:01.009504 VirtualBox GUI VM Selector Window 6.1.50_Ubuntu r161033 linux.amd64 (Jan 23 2024 12:29:45) release log
-00:00:01.009509 Log opened 2024-03-04T12:02:47.839151000Z
-00:00:01.009512 Build Type: release
-00:00:01.009523 OS Product: Linux
-00:00:01.009526 OS Release: 6.5.0-21-generic
-00:00:01.009529 OS Version: #21~22.04.1-Ubuntu SMP PREEMPT_DYNAMIC Fri Feb  9 13:32:52 UTC 2
-00:00:01.009581 DMI Product Name: 81YQ
-00:00:01.009596 DMI Product Version: IdeaPad 5 15ARE05
-00:00:01.009613 Firmware type: UEFI
-00:00:01.009953 Secure Boot: Enabled
-00:00:01.010035 Host RAM: 15341MB (14.9GB) total, 13427MB (13.1GB) available
-00:00:01.010045 Executable: /usr/lib/virtualbox/VirtualBox
-00:00:01.010047 Process ID: 11531
-00:00:01.010049 Package type: LINUX_64BITS_GENERIC (OSE)
-00:00:01.010110 Qt version: 5.15.3
-00:00:01.128961 GUI: UIMediumEnumerator: Medium-enumeration started...
-00:00:02.338918 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenAvailableGeometryCalculated: Screen 0 work area is actually resized to: 0x32 x 960x1048
-00:00:02.358982 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:00:00.209030 VirtualBox GUI VM Selector Window 6.1.50_Ubuntu r161033 linux.amd64 (Jan 23 2024 12:29:45) release log
+00:00:00.209033 Log opened 2024-03-18T16:01:55.904282000Z
+00:00:00.209035 Build Type: release
+00:00:00.209042 OS Product: Linux
+00:00:00.209044 OS Release: 6.5.0-25-generic
+00:00:00.209046 OS Version: #25~22.04.1-Ubuntu SMP PREEMPT_DYNAMIC Tue Feb 20 16:09:15 UTC 2
+00:00:00.209080 DMI Product Name: 81YQ
+00:00:00.209089 DMI Product Version: IdeaPad 5 15ARE05
+00:00:00.209099 Firmware type: UEFI
+00:00:00.209456 Secure Boot: Enabled
+00:00:00.209511 Host RAM: 15341MB (14.9GB) total, 4262MB (4.1GB) available
+00:00:00.209518 Executable: /usr/lib/virtualbox/VirtualBox
+00:00:00.209519 Process ID: 60886
+00:00:00.209521 Package type: LINUX_64BITS_GENERIC (OSE)
+00:00:00.209572 Qt version: 5.15.3
+00:00:00.244497 GUI: UIMediumEnumerator: Medium-enumeration started...
+00:00:00.740711 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenAvailableGeometryCalculated: Screen 0 work area is actually resized to: 0x32 x 960x1048
+00:00:00.741312 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:00:10.781115 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:00:17.427381 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:00:32.357814 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:00:38.436425 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:01:14.203191 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:01:40.939492 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:02:14.157521 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:04:56.687328 GUI: UIMediumEnumerator: Medium-enumeration finished!

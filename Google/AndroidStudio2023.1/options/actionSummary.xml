@@ -13,7 +13,7 @@
       <i c="23" l="1708947589232" />
     </e>
     <e n="$Undo">
-      <i c="303" l="1708950669401" />
+      <i c="335" l="1709738994092" />
     </e>
     <e n="Android.DeviceManager2">
       <i c="3" l="1706442440514" />
@@ -37,7 +37,7 @@
       <i c="4" l="1706451713367" />
     </e>
     <e n="CommentByLineComment">
-      <i c="83" l="1708949716302" />
+      <i c="97" l="1709739012188" />
     </e>
     <e n="Debug">
       <i c="11" l="1708513756506" />
@@ -46,13 +46,13 @@
       <i c="1" l="1706443681081" />
     </e>
     <e n="EditorBackSpace">
-      <i c="662" l="1708950850664" />
+      <i c="785" l="1709739985138" />
     </e>
     <e n="EditorChooseLookupItem">
       <i c="3" l="1708513081883" />
     </e>
     <e n="EditorChooseLookupItemReplace">
-      <i c="58" l="1708950834500" />
+      <i c="71" l="1709739572156" />
     </e>
     <e n="EditorCodeBlockEnd">
       <i c="17" l="1708363746452" />
@@ -61,25 +61,25 @@
       <i c="34" l="1708510014049" />
     </e>
     <e n="EditorCopy">
-      <i c="53" l="1708950508241" />
+      <i c="61" l="1709739277335" />
     </e>
     <e n="EditorCut">
-      <i c="3" l="1708948655341" />
+      <i c="18" l="1709739431184" />
     </e>
     <e n="EditorDelete">
-      <i c="37" l="1708950741490" />
+      <i c="99" l="1709739986319" />
     </e>
     <e n="EditorDeleteLine">
       <i c="3" l="1708365112059" />
     </e>
     <e n="EditorDeleteToWordStart">
-      <i c="83" l="1708950836650" />
+      <i c="90" l="1709738565187" />
     </e>
     <e n="EditorDown">
-      <i c="24" l="1708947229720" />
+      <i c="30" l="1709739127184" />
     </e>
     <e n="EditorEnter">
-      <i c="139" l="1708950800669" />
+      <i c="183" l="1709739936597" />
     </e>
     <e n="EditorEscape">
       <i c="1" l="1706450804539" />
@@ -88,16 +88,19 @@
       <i c="5" l="1707238837091" />
     </e>
     <e n="EditorLeft">
-      <i c="75" l="1709047638221" />
+      <i c="93" l="1709739079685" />
     </e>
     <e n="EditorMatchBrace">
       <i c="8" l="1706436154620" />
     </e>
     <e n="EditorPaste">
-      <i c="113" l="1708950690814" />
+      <i c="147" l="1709739990414" />
     </e>
     <e n="EditorRight">
-      <i c="45" l="1709047636511" />
+      <i c="54" l="1709739208981" />
+    </e>
+    <e n="EditorSelectWord">
+      <i c="1" l="1709737723376" />
     </e>
     <e n="EditorStartNewLine">
       <i c="3" l="1708949222555" />
@@ -112,7 +115,7 @@
       <i c="4" l="1708514163834" />
     </e>
     <e n="EditorUp">
-      <i c="25" l="1708947216569" />
+      <i c="30" l="1709737230491" />
     </e>
     <e n="FileChooser.NewFolder">
       <i c="3" l="1706453732330" />
@@ -125,6 +128,9 @@
     </e>
     <e n="GotoDeclaration">
       <i c="1" l="1706451284821" />
+    </e>
+    <e n="GotoImplementation">
+      <i c="1" l="1709738119359" />
     </e>
     <e n="GotoTypeDeclaration">
       <i c="4" l="1707242366184" />
@@ -154,10 +160,10 @@
       <i c="1" l="1708949091258" />
     </e>
     <e n="RedesignedRunConfigurationSelector">
-      <i c="2" l="1706443445413" />
+      <i c="3" l="1709737917631" />
     </e>
     <e n="RenameElement">
-      <i c="4" l="1707297064967" />
+      <i c="5" l="1709737297362" />
     </e>
     <e n="Replace">
       <i c="5" l="1708365120246" />
@@ -169,13 +175,13 @@
       <i c="1" l="1706452037448" />
     </e>
     <e n="Run">
-      <i c="168" l="1709047595087" />
+      <i c="203" l="1709740018806" />
     </e>
     <e n="RunAnything">
       <i c="1" l="1708364708297" />
     </e>
     <e n="SaveAll">
-      <i c="101" l="1708950816248" />
+      <i c="103" l="1709738904274" />
     </e>
     <e n="SelectIn">
       <i c="1" l="1706520087904" />
@@ -193,10 +199,10 @@
       <i c="2" l="1708510107628" />
     </e>
     <e n="Stop">
-      <i c="48" l="1709047655124" />
+      <i c="49" l="1709740017118" />
     </e>
     <e n="Switcher">
-      <i c="6" l="1707238828179" />
+      <i c="8" l="1709737257953" />
     </e>
     <e n="ToggleLineBreakpoint">
       <i c="31" l="1708510288668" />
@@ -208,7 +214,7 @@
       <i c="3" l="1706452556233" />
     </e>
     <e n="android.device.back.button">
-      <i c="1" l="1708950408046" />
+      <i c="2" l="1709735779855" />
     </e>
     <e n="android.device.home.button">
       <i c="1" l="1708510522637" />
@@ -220,10 +226,10 @@
       <i c="6" l="1709047673451" />
     </e>
     <e n="android.device.rotate.left">
-      <i c="28" l="1709047658356" />
+      <i c="56" l="1709739652609" />
     </e>
     <e n="android.device.rotate.right">
-      <i c="40" l="1709047652152" />
+      <i c="60" l="1709739659329" />
     </e>
     <e n="android.emulator.extended.controls">
       <i c="4" l="1708947715245" />
@@ -268,7 +274,7 @@
       <i c="1" l="1706450908430" />
     </e>
     <e n="com.intellij.codeInsight.daemon.impl.DaemonTooltipWithActionRenderer$addActionsRow$1">
-      <i c="66" l="1708950695474" />
+      <i c="75" l="1709740002654" />
     </e>
     <e n="com.intellij.execution.ExecutorRegistryImpl$RunSpecifiedConfigExecutorAction">
       <i c="1" l="1706443296511" />
@@ -304,19 +310,22 @@
       <i c="1" l="1708366358412" />
     </e>
     <e n="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
-      <i c="17" l="1708510141693" />
+      <i c="19" l="1709737246460" />
     </e>
     <e n="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
-      <i c="4" l="1707240483750" />
+      <i c="5" l="1709737279386" />
+    </e>
+    <e n="com.intellij.openapi.project.LightEditActionFactory$SimpleLightEditCompatibleAction">
+      <i c="1" l="1709737259567" />
     </e>
     <e n="com.intellij.openapi.ui.DialogWrapper$4">
-      <i c="56" l="1709047677257" />
+      <i c="59" l="1710535521575" />
     </e>
     <e n="com.intellij.openapi.wm.impl.DockToolWindowAction">
       <i c="3" l="1707294842031" />
     </e>
     <e n="com.intellij.openapi.wm.impl.SquareAnActionButton">
-      <i c="90" l="1708950755339" />
+      <i c="91" l="1709737879082" />
     </e>
     <e n="com.intellij.openapi.wm.impl.customFrameDecorations.header.toolbar.MainMenuButton$ShowMenuAction">
       <i c="33" l="1708947297592" />
@@ -337,7 +346,7 @@
       <i c="1" l="1706454171306" />
     </e>
     <e n="org.jetbrains.android.actions.CreateMultiRootResourceFileAction">
-      <i c="4" l="1708512674063" />
+      <i c="5" l="1709737211411" />
     </e>
     <e n="template.create.XMLLayout XML File">
       <i c="1" l="1707240049264" />
