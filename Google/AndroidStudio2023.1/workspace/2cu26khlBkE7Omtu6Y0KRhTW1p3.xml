@@ -25,8 +25,8 @@
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/eindopdracht/MainActivity.java">
           <provider selected="true" editor-type-id="android-source-code">
             <state>
-              <editor-state relative-caret-position="347">
-                <caret line="78" column="13" selection-start-line="78" selection-start-column="13" selection-end-line="78" selection-end-column="13" />
+              <editor-state relative-caret-position="330">
+                <caret line="64" column="27" lean-forward="true" selection-start-line="64" selection-start-column="27" selection-end-line="64" selection-end-column="27" />
               </editor-state>
               <multi-preview-state selected="">
                 <representations>
@@ -41,7 +41,7 @@
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/eindopdracht/CustomAdapter.java">
           <provider selected="true" editor-type-id="android-source-code">
             <state>
-              <editor-state relative-caret-position="132">
+              <editor-state relative-caret-position="176">
                 <caret line="18" selection-start-line="18" selection-end-line="18" />
               </editor-state>
               <multi-preview-state selected="">
@@ -61,8 +61,8 @@
       <file current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="528">
-              <caret line="24" column="18" selection-start-line="24" selection-start-column="18" selection-end-line="24" selection-end-column="18" />
+            <state relative-caret-position="88">
+              <caret line="4" selection-start-line="4" selection-end-line="4" />
             </state>
           </provider>
           <provider editor-type-id="android-manifest" />
@@ -80,8 +80,8 @@
       <file current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/build.gradle.kts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="792">
-              <caret line="36" column="53" selection-start-line="36" selection-start-column="53" selection-end-line="36" selection-end-column="53" />
+            <state relative-caret-position="748">
+              <caret line="34" selection-start-line="34" selection-end-line="34" />
             </state>
           </provider>
         </entry>
@@ -95,13 +95,13 @@
   </component>
   <component name="FileTypeUsageLocalSummary">
     <fileType name="JAVA">
-      <summary usageCount="6" lastUsed="1710535505045" />
+      <summary usageCount="10" lastUsed="1712000928405" />
     </fileType>
     <fileType name="Kotlin">
-      <summary usageCount="8" lastUsed="1710535505417" />
+      <summary usageCount="12" lastUsed="1712000928501" />
     </fileType>
     <fileType name="XML">
-      <summary usageCount="16" lastUsed="1710535505435" />
+      <summary usageCount="24" lastUsed="1712000928514" />
     </fileType>
   </component>
   <component name="IdeDocumentHistory">
@@ -124,13 +124,13 @@
   </component>
   <component name="LanguageUsageStatistics">
     <language id="JAVA">
-      <summary usageCount="6" lastUsage="1710535505045" />
+      <summary usageCount="10" lastUsage="1712000928405" />
     </language>
     <language id="XML">
-      <summary usageCount="16" lastUsage="1710535505435" />
+      <summary usageCount="24" lastUsage="1712000928514" />
     </language>
     <language id="kotlin">
-      <summary usageCount="8" lastUsage="1710535505417" />
+      <summary usageCount="12" lastUsage="1712000928501" />
     </language>
   </component>
   <component name="ProjectView">
@@ -208,8 +208,9 @@
     </tool-windows>
   </component>
   <component name="ToolWindowManager">
+    <editor active="true" />
     <layoutV2>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16484375" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.31927085" />
       <window_info id="Commit" order="1" weight="0.25" />
       <window_info id="Resources Explorer" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" order="0" />
@@ -224,15 +225,15 @@
       <window_info anchor="right" id="Gradle" order="1" weight="0.25" />
       <window_info anchor="right" id="Device Manager" order="2" weight="0.25" />
       <window_info anchor="right" id="Device Manager 2" order="3" weight="0.25" />
-      <window_info anchor="right" id="Running Devices" order="4" visible="true" weight="0.2903646" />
-      <unified_weights bottom="0.16364503" left="0.16484375" right="0.2903646" />
+      <window_info anchor="right" id="Running Devices" order="4" visible="true" weight="0.5640625" />
+      <unified_weights bottom="0.16364503" left="0.31927085" right="0.5640625" />
     </layoutV2>
     <recentWindows>
+      <value>Project</value>
       <value>Running Devices</value>
       <value>Run</value>
       <value>Build</value>
       <value>Logcat</value>
-      <value>Project</value>
     </recentWindows>
   </component>
   <component name="WindowStateProjectService">
@@ -244,50 +245,28 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="713" y="319" width="487" height="448" key="AndroidCreateXmlResourceDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1709737204181" />
-    <state width="1838" height="129" key="GridCell.Tab.0.bottom" timestamp="1709740214783">
+    <state width="878" height="129" key="GridCell.Tab.0.bottom" timestamp="1711999811592">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1838" height="129" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1709740214783" />
-    <state width="1838" height="129" key="GridCell.Tab.0.center" timestamp="1709740214783">
+    <state width="878" height="129" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1711999811592" />
+    <state width="878" height="129" key="GridCell.Tab.0.center" timestamp="1711999811592">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1838" height="129" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1709740214783" />
-    <state width="1838" height="129" key="GridCell.Tab.0.left" timestamp="1709740214783">
+    <state width="878" height="129" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1711999811592" />
+    <state width="878" height="129" key="GridCell.Tab.0.left" timestamp="1711999811592">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1838" height="129" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1709740214783" />
-    <state width="1838" height="129" key="GridCell.Tab.0.right" timestamp="1709740214783">
+    <state width="878" height="129" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1711999811592" />
+    <state width="878" height="129" key="GridCell.Tab.0.right" timestamp="1711999811592">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1838" height="129" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1709740214783" />
+    <state width="878" height="129" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1711999811592" />
     <state x="693" y="250" width="528" height="586" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1708949094414">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="693" y="250" width="528" height="586" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1708949094414" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/build.gradle.kts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22">
-          <caret line="1" column="9" selection-start-line="1" selection-start-column="9" selection-end-line="1" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/build.gradle.kts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="792">
-          <caret line="36" column="53" selection-start-line="36" selection-start-column="53" selection-end-line="36" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="528">
-          <caret line="24" column="18" lean-forward="true" selection-start-line="24" selection-start-column="18" selection-end-line="24" selection-end-column="18" />
-        </state>
-      </provider>
-      <provider editor-type-id="android-manifest" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/values/colors.xml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -303,10 +282,32 @@
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
       <provider selected="true" editor-type-id="android-designer2" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle.kts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="1" column="9" selection-start-line="1" selection-start-column="9" selection-end-line="1" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/build.gradle.kts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="748">
+          <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+      <provider editor-type-id="android-manifest" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/eindopdracht/CustomAdapter.java">
       <provider selected="true" editor-type-id="android-source-code">
         <state>
-          <editor-state relative-caret-position="132">
+          <editor-state relative-caret-position="176">
             <caret line="18" selection-start-line="18" selection-end-line="18" />
           </editor-state>
           <multi-preview-state selected="">
@@ -320,8 +321,8 @@
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/eindopdracht/MainActivity.java">
       <provider selected="true" editor-type-id="android-source-code">
         <state>
-          <editor-state relative-caret-position="347">
-            <caret line="78" column="13" selection-start-line="78" selection-start-column="13" selection-end-line="78" selection-end-column="13" />
+          <editor-state relative-caret-position="330">
+            <caret line="64" column="27" lean-forward="true" selection-start-line="64" selection-start-column="27" selection-end-line="64" selection-end-column="27" />
           </editor-state>
           <multi-preview-state selected="">
             <representations>

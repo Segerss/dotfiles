@@ -141,20 +141,33 @@
         </entry>
         <entry key="$USER_HOME$/projects/school/MOB/Eindopdracht">
           <value>
-            <RecentProjectMetaInfo frameTitle="Eindopdracht – MainActivity.java [Eindopdracht.app.main]" opened="true" projectWorkspaceId="2cu26khlBkE7Omtu6Y0KRhTW1p3">
-              <option name="activationTimestamp" value="1710535521731" />
+            <RecentProjectMetaInfo frameTitle="Eindopdracht – MainActivity.java [Eindopdracht.app.main]" projectWorkspaceId="2cu26khlBkE7Omtu6Y0KRhTW1p3">
+              <option name="activationTimestamp" value="1712011620665" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="AI-231.9392.1.2311.11330709" />
-              <option name="buildTimestamp" value="1705622039968" />
+              <option name="buildTimestamp" value="1705622034791" />
               <frame x="-2" y="2" width="1924" height="1080" />
               <option name="productionCode" value="AI" />
-              <option name="projectOpenTimestamp" value="1710535505572" />
+              <option name="projectOpenTimestamp" value="1712000928539" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/projects/school/MOB/FragmentsApp">
+          <value>
+            <RecentProjectMetaInfo frameTitle="FragmentsApp – DetailFragment.java [FragmentsApp.app.main]" opened="true" projectWorkspaceId="2eVpsmIwiWrCGz9GMroSfRUwtos">
+              <option name="activationTimestamp" value="1712054659960" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="AI-231.9392.1.2311.11330709" />
+              <option name="buildTimestamp" value="1705622032074" />
+              <frame x="-2" y="2" width="1924" height="1080" />
+              <option name="productionCode" value="AI" />
+              <option name="projectOpenTimestamp" value="1712053737661" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
       </map>
     </option>
-    <option name="lastOpenedProject" value="$USER_HOME$/projects/school/MOB/Eindopdracht" />
+    <option name="lastOpenedProject" value="$USER_HOME$/projects/school/MOB/FragmentsApp" />
     <option name="lastProjectLocation" value="$USER_HOME$/projects/school/MOB" />
   </component>
 </application>

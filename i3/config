@@ -253,6 +253,7 @@ exec_always --no-startup-id "/home/seger/.config/wallpapers/randombackground.sh"
 exec --no-startup-id compton
 
 bindsym $mod+w exec firefox
+bindsym $mod+Shift+f exec nautilus
 # bindsym $mod+c cd $(find * -type d | fzf)
 # bindsym $mod+c exec_always --no-startup-id 'source /home/seger/.config/startfuzzyfinder.sh' 
 # bindsym $mod+c exec_always --no-startup-id '/home/seger/.config/wallpapers/randombackground.sh'

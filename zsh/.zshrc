@@ -102,7 +102,10 @@ source $ZSH/oh-my-zsh.sh
 # Example aliases
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
-alias fuz="source ~/.config/startfuzzyfinder.sh" 
+alias f="source ~/.config/startfuzzyfinder.sh" 
+alias r="python3 ~/bin/ranger.py"
+alias v="nvim" 
+alias i="sudo apt-get install " 
 
 alias dushs="du * -sh | sort -h" 
 alias dushas="du .* * -sh | sort -h" 
