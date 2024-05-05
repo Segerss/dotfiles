@@ -1,0 +1,1136 @@
+Mono path[0] = '/home/seger/.steam/debian-installation/steamapps/common/Liftoff/Liftoff_Data/Managed'
+Mono config path = '/home/seger/.steam/debian-installation/steamapps/common/Liftoff/Liftoff_Data/MonoBleedingEdge/etc'
+Preloaded 'libopus_egpv.so'
+Preloaded 'libsteam_api.so'
+Display 0 '0': 1920x1080 (primary device).
+[Physics::Module] Initialized MultithreadedJobDispatcher with {0} workers.
+Desktop is 1920 x 1080 @ 60 Hz
+Initialize engine version: 2021.3.30f1 (b4360d7cdac4)
+[Subsystems] Discovering subsystems at path /home/seger/.steam/debian-installation/steamapps/common/Liftoff/Liftoff_Data/UnitySubsystems
+GfxDevice: creating device client; threaded=1; jobified=0
+Renderer: RENOIR (renoir, LLVM 15.0.7, DRM 3.54, 6.5.0-28-generic)
+Vendor:   AMD
+Version:  4.6 (Core Profile) Mesa 23.2.1-1ubuntu3.1~22.04.2
+GLES:     0
+ GL_AMD_conservative_depth GL_AMD_depth_clamp_separate GL_AMD_draw_buffers_blend GL_AMD_framebuffer_multisample_advanced GL_AMD_gpu_shader_int64 GL_AMD_multi_draw_indirect GL_AMD_performance_monitor GL_AMD_pinned_memory GL_AMD_query_buffer_object GL_AMD_seamless_cubemap_per_texture GL_AMD_shader_stencil_export GL_AMD_shader_trinary_minmax GL_AMD_texture_texture4 GL_AMD_vertex_shader_layer GL_AMD_vertex_shader_viewport_index GL_ANGLE_texture_compression_dxt3 GL_ANGLE_texture_compression_dxt5 GL_ARB_ES2_compatibility GL_ARB_ES3_1_compatibility GL_ARB_ES3_2_compatibility GL_ARB_ES3_compatibility GL_ARB_arrays_of_arrays GL_ARB_base_instance GL_ARB_bindless_texture GL_ARB_blend_func_extended GL_ARB_buffer_storage GL_ARB_clear_buffer_object GL_ARB_clear_texture GL_ARB_clip_control GL_ARB_color_buffer_float GL_ARB_compressed_texture_pixel_storage GL_ARB_compute_shader GL_ARB_compute_variable_group_size GL_ARB_conditional_render_inverted GL_ARB_conservative_depth GL_ARB_copy_buffer GL_ARB_copy_image GL_ARB_cull_dist
+ance GL_ARB_debug_output GL_ARB_depth_buffer_float GL_ARB_depth_clamp GL_ARB_derivative_control GL_ARB_direct_state_access GL_ARB_draw_buffers GL_ARB_draw_buffers_blend GL_ARB_draw_elements_base_vertex GL_ARB_draw_indirect GL_ARB_draw_instanced GL_ARB_enhanced_layouts GL_ARB_explicit_attrib_location GL_ARB_explicit_uniform_location GL_ARB_fragment_coord_conventions GL_ARB_fragment_layer_viewport GL_ARB_fragment_shader GL_ARB_framebuffer_no_attachments GL_ARB_framebuffer_object GL_ARB_framebuffer_sRGB GL_ARB_get_program_binary GL_ARB_get_texture_sub_image GL_ARB_gl_spirv GL_ARB_gpu_shader5 GL_ARB_gpu_shader_fp64 GL_ARB_gpu_shader_int64 GL_ARB_half_float_pixel GL_ARB_half_float_vertex GL_ARB_indirect_parameters GL_ARB_instanced_arrays GL_ARB_internalformat_query GL_ARB_internalformat_query2 GL_ARB_invalidate_subdata GL_ARB_map_buffer_alignment GL_ARB_map_buffer_range GL_ARB_multi_bind GL_ARB_multi_draw_indirect GL_ARB_occlusion_query2 GL_ARB_parallel_shader_compile GL_ARB_pipeline_statistics_query GL_ARB_pixel
+_buffer_object GL_ARB_point_sprite GL_ARB_polygon_offset_clamp GL_ARB_program_interface_query GL_ARB_provoking_vertex GL_ARB_query_buffer_object GL_ARB_robust_buffer_access_behavior GL_ARB_robustness GL_ARB_sample_shading GL_ARB_sampler_objects GL_ARB_seamless_cube_map GL_ARB_seamless_cubemap_per_texture GL_ARB_separate_shader_objects GL_ARB_shader_atomic_counter_ops GL_ARB_shader_atomic_counters GL_ARB_shader_ballot GL_ARB_shader_bit_encoding GL_ARB_shader_clock GL_ARB_shader_draw_parameters GL_ARB_shader_group_vote GL_ARB_shader_image_load_store GL_ARB_shader_image_size GL_ARB_shader_objects GL_ARB_shader_precision GL_ARB_shader_stencil_export GL_ARB_shader_storage_buffer_object GL_ARB_shader_subroutine GL_ARB_shader_texture_image_samples GL_ARB_shader_texture_lod GL_ARB_shader_viewport_layer_array GL_ARB_shading_language_420pack GL_ARB_shading_language_include GL_ARB_shading_language_packing GL_ARB_sparse_buffer GL_ARB_sparse_texture GL_ARB_sparse_texture2 GL_ARB_sparse_texture_clamp GL_ARB_spirv_extensio
+ns GL_ARB_stencil_texturing GL_ARB_sync GL_ARB_tessellation_shader GL_ARB_texture_barrier GL_ARB_texture_buffer_object GL_ARB_texture_buffer_object_rgb32 GL_ARB_texture_buffer_range GL_ARB_texture_compression_bptc GL_ARB_texture_compression_rgtc GL_ARB_texture_cube_map_array GL_ARB_texture_filter_anisotropic GL_ARB_texture_float GL_ARB_texture_gather GL_ARB_texture_mirror_clamp_to_edge GL_ARB_texture_multisample GL_ARB_texture_non_power_of_two GL_ARB_texture_query_levels GL_ARB_texture_query_lod GL_ARB_texture_rectangle GL_ARB_texture_rg GL_ARB_texture_rgb10_a2ui GL_ARB_texture_stencil8 GL_ARB_texture_storage GL_ARB_texture_storage_multisample GL_ARB_texture_swizzle GL_ARB_texture_view GL_ARB_timer_query GL_ARB_transform_feedback2 GL_ARB_transform_feedback3 GL_ARB_transform_feedback_instanced GL_ARB_transform_feedback_overflow_query GL_ARB_uniform_buffer_object GL_ARB_vertex_array_bgra GL_ARB_vertex_array_object GL_ARB_vertex_attrib_64bit GL_ARB_vertex_attrib_binding GL_ARB_vertex_buffer_object GL_ARB_vertex
+_shader GL_ARB_vertex_type_10f_11f_11f_rev GL_ARB_vertex_type_2_10_10_10_rev GL_ARB_viewport_array GL_ATI_blend_equation_separate GL_ATI_meminfo GL_ATI_texture_float GL_ATI_texture_mirror_once GL_EXT_EGL_image_storage GL_EXT_EGL_sync GL_EXT_abgr GL_EXT_blend_equation_separate GL_EXT_debug_label GL_EXT_demote_to_helper_invocation GL_EXT_depth_bounds_test GL_EXT_draw_buffers2 GL_EXT_draw_instanced GL_EXT_framebuffer_blit GL_EXT_framebuffer_multisample GL_EXT_framebuffer_multisample_blit_scaled GL_EXT_framebuffer_object GL_EXT_framebuffer_sRGB GL_EXT_memory_object GL_EXT_memory_object_fd GL_EXT_packed_depth_stencil GL_EXT_packed_float GL_EXT_pixel_buffer_object GL_EXT_polygon_offset_clamp GL_EXT_provoking_vertex GL_EXT_semaphore GL_EXT_semaphore_fd GL_EXT_shader_image_load_formatted GL_EXT_shader_image_load_store GL_EXT_shader_integer_mix GL_EXT_shader_samples_identical GL_EXT_texture_array GL_EXT_texture_compression_dxt1 GL_EXT_texture_compression_rgtc GL_EXT_texture_compression_s3tc GL_EXT_texture_filter_anis
+otropic GL_EXT_texture_integer GL_EXT_texture_mirror_clamp GL_EXT_texture_sRGB GL_EXT_texture_sRGB_R8 GL_EXT_texture_sRGB_decode GL_EXT_texture_shadow_lod GL_EXT_texture_shared_exponent GL_EXT_texture_snorm GL_EXT_texture_swizzle GL_EXT_timer_query GL_EXT_transform_feedback GL_EXT_vertex_array_bgra GL_EXT_vertex_attrib_64bit GL_EXT_window_rectangles GL_IBM_multimode_draw_arrays GL_INTEL_blackhole_render GL_KHR_blend_equation_advanced GL_KHR_context_flush_control GL_KHR_debug GL_KHR_no_error GL_KHR_parallel_shader_compile GL_KHR_robust_buffer_access_behavior GL_KHR_robustness GL_KHR_texture_compression_astc_ldr GL_KHR_texture_compression_astc_sliced_3d GL_MESA_framebuffer_flip_y GL_MESA_pack_invert GL_MESA_shader_integer_functions GL_MESA_texture_signed_rgba GL_NVX_gpu_memory_info GL_NV_alpha_to_coverage_dither_control GL_NV_compute_shader_derivatives GL_NV_conditional_render GL_NV_copy_image GL_NV_depth_clamp GL_NV_packed_depth_stencil GL_NV_shader_atomic_int64 GL_NV_texture_barrier GL_NV_vdpau_interop GL_OE
+S_EGL_image GL_S3_s3tc
+OPENGL LOG: Creating OpenGL 4.6 graphics device ; Context level  <OpenGL 4.5> ; Context handle 24859616
+Begin MonoManager ReloadAssembly
+- Completed reload, in  0.162 seconds
+Default vsync count 0
+requesting resize 1920 x 1080
+Using native desktop resolution 1920 x 1080
+requesting fullscreen 1920 x 1080 at 0 Hz
+Desktop is 1920 x 1080 @ 60 Hz
+UnloadTime: 1.551733 ms
+LugusConfigDefault: A system config profile was not found. Now creating one at runtime.
+[S_API] SteamAPI_Init(): Loaded '/home/seger/.steam/debian-installation/linux64/steamclient.so' OK.
+Setting breakpad minidump AppID = 410340
+SteamInternal_SetMinidumpSteamID:  Caching Steam ID:  76561198964274317 [API loaded no]
+LIFTOFF INFO
+Build: 1.6.0
+Build date: 17/04/2024
+Backend connection: v0.5
+Default flight controller: ZETAFLIGHT
+
+SYSTEM INFO
+
+GENERAL =========================
+OS: Linux 6.5 Ubuntu 22.04 64bit
+Device model: PC
+System memory size: 15341 MB
+
+CPU =========================
+Processor type: AMD Ryzen 7 4700U with Radeon Graphics
+Processor count: 8
+Processor frequency: 1247 MHz
+
+GPU =========================
+Graphics device name: RENOIR (renoir, LLVM 15.0.7, DRM 3.54, 6.5.0-28-generic)
+Graphics device vendor ID: 4098
+Graphics device ID: 5686
+Graphics device type: OpenGLCore
+Graphics device version: OpenGL 4.6 (Core Profile) Mesa 23.2.1-1ubuntu3.1~22.04.2
+Graphics memory size: 132
+Graphics multithreaded: True
+Graphics shader level: 50 = Shader Model 5.0 (DX11.0)
+Supports draw call instancing: True
+Used reversed Z buffer: False
+
+OTHER =========================
+Battery status: Discharging
+Battery level: 0.24
+Audio supported: True
+
+================================= SCENE LOAD END: SplashScreen ======================================
+================================= SCENE LOAD START: GettingStarted ======================================
+Unloading 6 Unused Serialized files (Serialized files now loaded: 19)
+UnloadTime: 13.552491 ms
+Unloading 268 unused Assets to reduce memory usage. Loaded Objects now: 3950.
+Total: 29.812798 ms (FindLiveObjects: 0.219930 ms CreateObjectMapping: 0.117822 ms MarkObjects: 29.261750 ms  DeleteObjects: 0.206591 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 19)
+Setting up 4 worker threads for Enlighten.
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 3955.
+Total: 28.285578 ms (FindLiveObjects: 0.420514 ms CreateObjectMapping: 0.134095 ms MarkObjects: 27.707921 ms  DeleteObjects: 0.016343 ms)
+
+Fallback handler could not load library /home/seger/.steam/debian-installation/steamapps/common/Liftoff/Liftoff_Data/MonoBleedingEdge/x86_64/libudev.so
+Fallback handler could not load library /home/seger/.steam/debian-installation/steamapps/common/Liftoff/Liftoff_Data/MonoBleedingEdge/x86_64/libudev.so
+Fallback handler could not load library /home/seger/.steam/debian-installation/steamapps/common/Liftoff/Liftoff_Data/MonoBleedingEdge/x86_64/libudev.so
+Fallback handler could not load library /home/seger/.steam/debian-installation/steamapps/common/Liftoff/Liftoff_Data/MonoBleedingEdge/x86_64/libudev.so
+Fallback handler could not load library /home/seger/.steam/debian-installation/steamapps/common/Liftoff/Liftoff_Data/MonoBleedingEdge/x86_64/libudev.so
+Fallback handler could not load library /home/seger/.steam/debian-installation/steamapps/common/Liftoff/Liftoff_Data/MonoBleedingEdge/x86_64/libudev.so
+Fallback handler could not load library /home/seger/.steam/debian-installation/steamapps/common/Liftoff/Liftoff_Data/MonoBleedingEdge/x86_64/libudev.so
+Fallback handler could not load library /home/seger/.steam/debian-installation/steamapps/common/Liftoff/Liftoff_Data/MonoBleedingEdge/x86_64/libudev.so
+================================= SCENE LOAD END: GettingStarted ======================================
+No Joystick data found to load, loading default: LinuxLinuxRadiomasterBoxerJoystick203084f541209-0000-0000-0000-504944564944
+requesting resize 1920 x 1080
+Using native desktop resolution 1920 x 1080
+requesting fullscreen 1920 x 1080 at 0 Hz
+Desktop is 1920 x 1080 @ 60 Hz
+No Joystick data found to load, loading default: LinuxLinuxRadiomasterBoxerJoystick203084f541209-0000-0000-0000-504944564944
+[Rewired.Data.RewiredSettingsHelper] Rewired: Rewired.Data.RewiredSettingsHelper got InputSettings for Joystick 0 for Player 0.
+[Rewired.Data.RewiredSettingsHelper] Rewired: Rewired.Data.RewiredSettingsHelper got InputSettings for Joystick 0 for Player 0.
+Loaded settings of controller Radiomaster Boxer Joystick (dd3aa038-419d-464b-acaf-77860e20bc88)
+Rewired: Rewired.Data.RewiredSettingsHelper Applied joystick data to rewired for Joystick 0 for Player 0
+================================= SCENE LOAD START: MainMenu ======================================
+Unloading 7 Unused Serialized files (Serialized files now loaded: 34)
+UnloadTime: 21.247393 ms
+Unloading 869 unused Assets to reduce memory usage. Loaded Objects now: 4590.
+Total: 103.032857 ms (FindLiveObjects: 0.282578 ms CreateObjectMapping: 0.153092 ms MarkObjects: 26.523971 ms  DeleteObjects: 76.065603 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 20)
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 4578.
+Total: 31.153959 ms (FindLiveObjects: 0.258971 ms CreateObjectMapping: 0.129765 ms MarkObjects: 26.683838 ms  DeleteObjects: 4.073283 ms)
+
+================================= SCENE LOAD END: MainMenu ======================================
+================================= SCENE LOAD START: LevelSelectMenu ======================================
+Unloading 10 Unused Serialized files (Serialized files now loaded: 28)
+UnloadTime: 34.017871 ms
+Unloading 1925 unused Assets to reduce memory usage. Loaded Objects now: 4660.
+Total: 111.014668 ms (FindLiveObjects: 0.496083 ms CreateObjectMapping: 0.380635 ms MarkObjects: 27.536112 ms  DeleteObjects: 82.592690 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 20)
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 4653.
+Total: 20.441634 ms (FindLiveObjects: 0.257854 ms CreateObjectMapping: 0.128927 ms MarkObjects: 18.031272 ms  DeleteObjects: 2.015619 ms)
+
+================================= SCENE LOAD END: LevelSelectMenu ======================================
+================================= SCENE LOAD START: StrawBale ======================================
+Unloading 10 Unused Serialized files (Serialized files now loaded: 56)
+UnloadTime: 14.784002 ms
+Releasing render texture that is set as Camera.targetTexture!
+Unloading 736 unused Assets to reduce memory usage. Loaded Objects now: 4657.
+Total: 94.343974 ms (FindLiveObjects: 0.283136 ms CreateObjectMapping: 0.149740 ms MarkObjects: 27.204714 ms  DeleteObjects: 66.698770 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 20)
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 4654.
+Total: 24.748886 ms (FindLiveObjects: 0.260997 ms CreateObjectMapping: 0.130254 ms MarkObjects: 24.300785 ms  DeleteObjects: 0.049168 ms)
+
+Shader 'Nature/Terrain/Diffuse': dependency 'Details0' shader 'Hidden/TerrainEngine/Details/Vertexlit' not found
+Shader 'Nature/Terrain/Diffuse': dependency 'Details1' shader 'Hidden/TerrainEngine/Details/WavingDoublePass' not found
+Shader 'Nature/Terrain/Diffuse': dependency 'Tree0' shader 'Hidden/TerrainEngine/BillboardTree' not found
+Shader 'Hidden/Relief Pack/ReliefTerrain-AddPass': fallback shader 'Relief Pack/ReliefTerrain-AddPass' not found
+Shader 'Hidden/Relief Pack/ReliefTerrain-AddPass': fallback shader 'Relief Pack/ReliefTerrain-AddPass' not found
+================================= SCENE LOAD END: b03d4d025c3f54ac89f3752a8adad3ca ======================================
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "FenceGroup/FenceWoodLowLong01 (1)/FenceWoodLow01 (10)/Collision/Collision"
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "FenceGroup/FenceWoodLowLong01 (23)/FenceWoodLow01/Collision/Collision"
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "FenceGroup/FenceWoodLowLong01 (23)/FenceWoodLow01/Collision/Collision"
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "FenceGroup/FenceWoodLowLong01 (3)/FenceWoodLow01 (13)/Collision/Collision"
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "FenceGroup/FenceWoodLowLong01 (9)/FenceWoodLow01/Collision/Collision"
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "FenceGroup/FenceWoodLowLong01 (9)/FenceWoodLow01/Collision/Collision"
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "FenceGroup/FenceWoodLowLong01 (1)/FenceWoodLow01/Collision/Collision"
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "FenceGroup/FenceWoodLowLong01 (1)/FenceWoodLow01/Collision/Collision"
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "FenceGroup/FenceWoodLowLong01 (2)/FenceWoodLow01 (2)/Collision/Collision"
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "FenceGroup/FenceWoodLowLong01 (1)/FenceWoodLow01 (13)/Collision/Collision"
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "FenceGroup/FenceWoodLowLong01/FenceWoodLow01 (10)/Collision/Collision"
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "FenceGroup/FenceWoodLowLong01 (5)/FenceWoodLow01/Collision/Collision"
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "FenceGroup/FenceWoodLowLong01 (5)/FenceWoodLow01/Collision/Collision"
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "FenceGroup/FenceWoodLowLong01 (10)/FenceWoodLow01 (2)/Collision/Collision"
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "FenceGroup/FenceWoodLowLong01 (10)/FenceWoodLow01 (5)/Collision/Collision"
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "FenceGroup/FenceWoodLowLong01 (10)/FenceWoodLow01 (10)/Collision/Collision"
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "FenceGroup/FenceWoodLowLong01 (10)/FenceWoodLow01 (13)/Collision/Collision"
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "FenceGroup/FenceWoodLowLong01 (10)/FenceWoodLow01 (13)/Collision/Collision"
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "FenceGroup/FenceWoodLowLong01 (10)/FenceWoodLow01 (10)/Collision/Collision"
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "FenceGroup/FenceWoodLowLong01 (10)/FenceWoodLow01 (5)/Collision/Collision"
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "FenceGroup/FenceWoodLowLong01 (10)/FenceWoodLow01 (2)/Collision/Collision"
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "FenceGroup/FenceWoodLowLong01 (3)/FenceWoodLow01 (2)/Collision/Collision"
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "FenceGroup/FenceWoodLowLong01 (2)/FenceWoodLow01/Collision/Collision"
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "FenceGroup/FenceWoodLowLong01 (2)/FenceWoodLow01/Collision/Collision"
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "FenceGroup/FenceWoodLowLong01 (1)/FenceWoodLow01/Collision/Collision"
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "FenceGroup/FenceWoodLowLong01 (1)/FenceWoodLow01/Collision/Collision"
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "FenceGroup/FenceWoodLowLong01 (17)/FenceWoodLow01/Collision/Collision"
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "FenceGroup/FenceWoodLowLong01 (17)/FenceWoodLow01/Collision/Collision"
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "FenceGroup/FenceWoodLowLong01/FenceWoodLow01 (13)/Collision/Collision"
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "FenceGroup/FenceWoodLowLong01 (1)/FenceWoodLow01/Collision/Collision"
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "FenceGroup/FenceWoodLowLong01 (1)/FenceWoodLow01/Collision/Collision"
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "FenceGroup/FenceWoodLowLong01 (17)/FenceWoodLow01/Collision/Collision"
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "FenceGroup/FenceWoodLowLong01 (17)/FenceWoodLow01/Collision/Collision"
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "FenceGroup/FenceWoodLowLong01/FenceWoodLow01/Collision/Collision"
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "FenceGroup/FenceWoodLowLong01/FenceWoodLow01/Collision/Collision"
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "FenceGroup/FenceWoodLowLong01 (19)/FenceWoodLow01 (2)/Collision/Collision"
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "FenceGroup/FenceWoodLowLong01 (19)/FenceWoodLow01 (5)/Collision/Collision"
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "FenceGroup/FenceWoodLowLong01 (19)/FenceWoodLow01 (10)/Collision/Collision"
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "FenceGroup/FenceWoodLowLong01 (19)/FenceWoodLow01 (13)/Collision/Collision"
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "FenceGroup/FenceWoodLowLong01 (19)/FenceWoodLow01 (13)/Collision/Collision"
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "FenceGroup/FenceWoodLowLong01 (19)/FenceWoodLow01 (2)/Collision/Collision"
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "FenceGroup/FenceWoodLowLong01 (19)/FenceWoodLow01 (10)/Collision/Collision"
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "FenceGroup/FenceWoodLowLong01 (19)/FenceWoodLow01 (5)/Collision/Collision"
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "FenceGroup/FenceWoodLowLong01 (16)/FenceWoodLow01/Collision/Collision"
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "FenceGroup/FenceWoodLowLong01 (16)/FenceWoodLow01/Collision/Collision"
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "FenceGroup/FenceWoodLowLong01/FenceWoodLow01/Collision/Collision"
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "FenceGroup/FenceWoodLowLong01/FenceWoodLow01/Collision/Collision"
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "FenceGroup/FenceWoodLowLong01 (8)/FenceWoodLow01/Collision/Collision"
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "FenceGroup/FenceWoodLowLong01 (8)/FenceWoodLow01/Collision/Collision"
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "FenceGroup/FenceWoodLowLong01 (4)/FenceWoodLow01 (2)/Collision/Collision"
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "FenceGroup/FenceWoodLowLong01 (2)/FenceWoodLow01/Collision/Collision"
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "FenceGroup/FenceWoodLowLong01 (2)/FenceWoodLow01/Collision/Collision"
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "FenceGroup/FenceWoodLowLong01 (22)/FenceWoodLow01 (10)/Collision/Collision"
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "FenceGroup/FenceWoodLowLong01 (22)/FenceWoodLow01 (5)/Collision/Collision"
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "FenceGroup/FenceWoodLowLong01 (22)/FenceWoodLow01 (2)/Collision/Collision"
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "FenceGroup/FenceWoodLowLong01 (22)/FenceWoodLow01 (13)/Collision/Collision"
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "FenceGroup/FenceWoodLowLong01 (22)/FenceWoodLow01 (13)/Collision/Collision"
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "FenceGroup/FenceWoodLowLong01 (22)/FenceWoodLow01 (5)/Collision/Collision"
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "FenceGroup/FenceWoodLowLong01 (22)/FenceWoodLow01 (10)/Collision/Collision"
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "FenceGroup/FenceWoodLowLong01 (22)/FenceWoodLow01 (2)/Collision/Collision"
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "FenceGroup/FenceWoodLowLong01 (15)/FenceWoodLow01/Collision/Collision"
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "FenceGroup/FenceWoodLowLong01 (15)/FenceWoodLow01/Collision/Collision"
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "FenceGroup/FenceWoodLowLong01 (11)/FenceWoodLow01/Collision/Collision"
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "FenceGroup/FenceWoodLowLong01 (11)/FenceWoodLow01/Collision/Collision"
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "FenceGroup/FenceWoodLowLong01/FenceWoodLow01 (13)/Collision/Collision"
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "FenceGroup/FenceWoodLowLong01 (1)/FenceWoodLow01/Collision/Collision"
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "FenceGroup/FenceWoodLowLong01 (1)/FenceWoodLow01/Collision/Collision"
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "FenceGroup/FenceWoodLowLong01 (3)/FenceWoodLow01 (5)/Collision/Collision"
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "FenceGroup/FenceWoodLowLong01/FenceWoodLow01 (2)/Collision/Collision"
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "FenceGroup/FenceWoodLowLong01/FenceWoodLow01/Collision/Collision"
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "FenceGroup/FenceWoodLowLong01/FenceWoodLow01/Collision/Collision"
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "FenceGroup/FenceWoodLowLong01 (16)/FenceWoodLow01/Collision/Collision"
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "FenceGroup/FenceWoodLowLong01 (16)/FenceWoodLow01/Collision/Collision"
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "FenceGroup/FenceWoodLowLong01 (15)/FenceWoodLow01/Collision/Collision"
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "FenceGroup/FenceWoodLowLong01 (15)/FenceWoodLow01/Collision/Collision"
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "FenceGroup/FenceWoodLowLong01 (1)/FenceWoodLow01 (13)/Collision/Collision"
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "FenceGroup/FenceWoodLowLong01 (9)/FenceWoodLow01/Collision/Collision"
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "FenceGroup/FenceWoodLowLong01 (9)/FenceWoodLow01/Collision/Collision"
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "FenceGroup/FenceWoodLowLong01/FenceWoodLow01 (10)/Collision/Collision"
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "FenceGroup/FenceWoodLowLong01 (3)/FenceWoodLow01 (10)/Collision/Collision"
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "FenceGroup/FenceWoodLowLong01 (12)/FenceWoodLow01 (13)/Collision/Collision"
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "FenceGroup/FenceWoodLowLong01 (12)/FenceWoodLow01 (13)/Collision/Collision"
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "FenceGroup/FenceWoodLowLong01 (12)/FenceWoodLow01 (5)/Collision/Collision"
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "FenceGroup/FenceWoodLowLong01 (12)/FenceWoodLow01 (10)/Collision/Collision"
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "FenceGroup/FenceWoodLowLong01 (12)/FenceWoodLow01 (2)/Collision/Collision"
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "FenceGroup/FenceWoodLowLong01 (12)/FenceWoodLow01 (2)/Collision/Collision"
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "FenceGroup/FenceWoodLowLong01 (12)/FenceWoodLow01 (10)/Collision/Collision"
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "FenceGroup/FenceWoodLowLong01 (12)/FenceWoodLow01 (5)/Collision/Collision"
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "FenceGroup/FenceWoodLowLong01 (2)/FenceWoodLow01 (10)/Collision/Collision"
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "FenceGroup/FenceWoodLowLong01 (16)/FenceWoodLow01/Collision/Collision"
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "FenceGroup/FenceWoodLowLong01 (16)/FenceWoodLow01/Collision/Collision"
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "FenceGroup/FenceWoodLowLong01 (3)/FenceWoodLow01/Collision/Collision"
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "FenceGroup/FenceWoodLowLong01 (3)/FenceWoodLow01/Collision/Collision"
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "FenceGroup/FenceWoodLowLong01 (2)/FenceWoodLow01 (13)/Collision/Collision"
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "FenceGroup/FenceWoodLowLong01 (1)/FenceWoodLow01 (10)/Collision/Collision"
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "FenceGroup/FenceWoodLowLong01 (2)/FenceWoodLow01 (10)/Collision/Collision"
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "FenceGroup/FenceWoodLowLong01 (7)/FenceWoodLow01/Collision/Collision"
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "FenceGroup/FenceWoodLowLong01 (7)/FenceWoodLow01/Collision/Collision"
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "FenceGroup/FenceWoodLowLong01 (9)/FenceWoodLow01/Collision/Collision"
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "FenceGroup/FenceWoodLowLong01 (9)/FenceWoodLow01/Collision/Collision"
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "FenceGroup/FenceWoodLowLong01 (1)/FenceWoodLow01 (5)/Collision/Collision"
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "FenceGroup/FenceWoodLowLong01 (20)/FenceWoodLow01 (2)/Collision/Collision"
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "FenceGroup/FenceWoodLowLong01 (20)/FenceWoodLow01 (5)/Collision/Collision"
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "FenceGroup/FenceWoodLowLong01 (20)/FenceWoodLow01 (10)/Collision/Collision"
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "FenceGroup/FenceWoodLowLong01 (20)/FenceWoodLow01 (13)/Collision/Collision"
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "FenceGroup/FenceWoodLowLong01 (20)/FenceWoodLow01 (13)/Collision/Collision"
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "FenceGroup/FenceWoodLowLong01 (20)/FenceWoodLow01 (10)/Collision/Collision"
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "FenceGroup/FenceWoodLowLong01 (20)/FenceWoodLow01 (5)/Collision/Collision"
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "FenceGroup/FenceWoodLowLong01 (20)/FenceWoodLow01 (2)/Collision/Collision"
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "FenceGroup/FenceWoodLowLong01 (3)/FenceWoodLow01/Collision/Collision"
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "FenceGroup/FenceWoodLowLong01 (3)/FenceWoodLow01/Collision/Collision"
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "FenceGroup/FenceWoodLowLong01/FenceWoodLow01 (2)/Collision/Collision"
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "FenceGroup/FenceWoodLowLong01 (15)/FenceWoodLow01/Collision/Collision"
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "FenceGroup/FenceWoodLowLong01 (15)/FenceWoodLow01/Collision/Collision"
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "FenceGroup/FenceWoodLowLong01 (21)/FenceWoodLow01 (2)/Collision/Collision"
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "FenceGroup/FenceWoodLowLong01 (21)/FenceWoodLow01 (10)/Collision/Collision"
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "FenceGroup/FenceWoodLowLong01 (21)/FenceWoodLow01 (5)/Collision/Collision"
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "FenceGroup/FenceWoodLowLong01 (21)/FenceWoodLow01 (13)/Collision/Collision"
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "FenceGroup/FenceWoodLowLong01 (21)/FenceWoodLow01 (13)/Collision/Collision"
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "FenceGroup/FenceWoodLowLong01 (21)/FenceWoodLow01 (5)/Collision/Collision"
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "FenceGroup/FenceWoodLowLong01 (21)/FenceWoodLow01 (10)/Collision/Collision"
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "FenceGroup/FenceWoodLowLong01 (21)/FenceWoodLow01 (2)/Collision/Collision"
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "FenceGroup/FenceWoodLowLong01 (7)/FenceWoodLow01/Collision/Collision"
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "FenceGroup/FenceWoodLowLong01 (7)/FenceWoodLow01/Collision/Collision"
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "FenceGroup/FenceWoodLowLong01 (4)/FenceWoodLow01 (2)/Collision/Collision"
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "FenceGroup/FenceWoodLowLong01 (2)/FenceWoodLow01 (2)/Collision/Collision"
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "FenceGroup/FenceWoodLowLong01/FenceWoodLow01/Collision/Collision"
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "FenceGroup/FenceWoodLowLong01/FenceWoodLow01/Collision/Collision"
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "FenceGroup/FenceWoodLowLong01 (3)/FenceWoodLow01 (13)/Collision/Collision"
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "FenceGroup/FenceWoodLowLong01 (5)/FenceWoodLow01/Collision/Collision"
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "FenceGroup/FenceWoodLowLong01 (5)/FenceWoodLow01/Collision/Collision"
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "FenceGroup/FenceWoodLowLong01 (11)/FenceWoodLow01/Collision/Collision"
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "FenceGroup/FenceWoodLowLong01 (11)/FenceWoodLow01/Collision/Collision"
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "FenceGroup/FenceWoodLowLong01 (11)/FenceWoodLow01/Collision/Collision"
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "FenceGroup/FenceWoodLowLong01 (11)/FenceWoodLow01/Collision/Collision"
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "FenceGroup/FenceWoodLowLong01 (6)/FenceWoodLow01/Collision/Collision"
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "FenceGroup/FenceWoodLowLong01 (6)/FenceWoodLow01/Collision/Collision"
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "FenceGroup/FenceWoodLowLong01 (2)/FenceWoodLow01 (5)/Collision/Collision"
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "FenceGroup/FenceWoodLowLong01 (8)/FenceWoodLow01/Collision/Collision"
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "FenceGroup/FenceWoodLowLong01 (8)/FenceWoodLow01/Collision/Collision"
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "FenceGroup/FenceWoodLowLong01 (2)/FenceWoodLow01 (13)/Collision/Collision"
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "FenceGroup/FenceWoodLowLong01 (4)/FenceWoodLow01 (10)/Collision/Collision"
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "FenceGroup/FenceWoodLowLong01 (3)/FenceWoodLow01 (5)/Collision/Collision"
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "FenceGroup/FenceWoodLowLong01 (4)/FenceWoodLow01 (10)/Collision/Collision"
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "FenceGroup/FenceWoodLowLong01 (7)/FenceWoodLow01/Collision/Collision"
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "FenceGroup/FenceWoodLowLong01 (7)/FenceWoodLow01/Collision/Collision"
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "FenceGroup/FenceWoodLowLong01 (4)/FenceWoodLow01 (5)/Collision/Collision"
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "FenceGroup/FenceWoodLowLong01 (1)/FenceWoodLow01 (2)/Collision/Collision"
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "FenceGroup/FenceWoodLowLong01 (7)/FenceWoodLow01/Collision/Collision"
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "FenceGroup/FenceWoodLowLong01 (7)/FenceWoodLow01/Collision/Collision"
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "FenceGroup/FenceWoodLowLong01 (2)/FenceWoodLow01/Collision/Collision"
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "FenceGroup/FenceWoodLowLong01 (2)/FenceWoodLow01/Collision/Collision"
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "FenceGroup/FenceWoodLowLong01 (5)/FenceWoodLow01/Collision/Collision"
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "FenceGroup/FenceWoodLowLong01 (5)/FenceWoodLow01/Collision/Collision"
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "FenceGroup/FenceWoodLowLong01 (17)/FenceWoodLow01/Collision/Collision"
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "FenceGroup/FenceWoodLowLong01 (17)/FenceWoodLow01/Collision/Collision"
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "FenceGroup/FenceWoodLowLong01 (6)/FenceWoodLow01/Collision/Collision"
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "FenceGroup/FenceWoodLowLong01 (6)/FenceWoodLow01/Collision/Collision"
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "FenceGroup/FenceWoodLowLong01 (14)/FenceWoodLow01 (13)/Collision/Collision"
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "FenceGroup/FenceWoodLowLong01 (14)/FenceWoodLow01 (13)/Collision/Collision"
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "FenceGroup/FenceWoodLowLong01 (14)/FenceWoodLow01 (5)/Collision/Collision"
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "FenceGroup/FenceWoodLowLong01 (14)/FenceWoodLow01 (10)/Collision/Collision"
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "FenceGroup/FenceWoodLowLong01 (14)/FenceWoodLow01 (2)/Collision/Collision"
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "FenceGroup/FenceWoodLowLong01 (14)/FenceWoodLow01 (2)/Collision/Collision"
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "FenceGroup/FenceWoodLowLong01 (14)/FenceWoodLow01 (10)/Collision/Collision"
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "FenceGroup/FenceWoodLowLong01 (14)/FenceWoodLow01 (5)/Collision/Collision"
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "FenceGroup/FenceWoodLowLong01 (4)/FenceWoodLow01 (2)/Collision/Collision"
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "FenceGroup/FenceWoodLowLong01 (4)/FenceWoodLow01 (5)/Collision/Collision"
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "FenceGroup/FenceWoodLowLong01 (4)/FenceWoodLow01 (10)/Collision/Collision"
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "FenceGroup/FenceWoodLowLong01 (4)/FenceWoodLow01 (13)/Collision/Collision"
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "FenceGroup/FenceWoodLowLong01 (4)/FenceWoodLow01 (13)/Collision/Collision"
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "FenceGroup/FenceWoodLowLong01 (4)/FenceWoodLow01 (2)/Collision/Collision"
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "FenceGroup/FenceWoodLowLong01 (4)/FenceWoodLow01 (10)/Collision/Collision"
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "FenceGroup/FenceWoodLowLong01 (4)/FenceWoodLow01 (5)/Collision/Collision"
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "FenceGroup/FenceWoodLowLong01 (1)/FenceWoodLow01 (5)/Collision/Collision"
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "FenceGroup/FenceWoodLowLong01 (9)/FenceWoodLow01/Collision/Collision"
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "FenceGroup/FenceWoodLowLong01 (9)/FenceWoodLow01/Collision/Collision"
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "FenceGroup/FenceWoodLowLong01 (3)/FenceWoodLow01/Collision/Collision"
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "FenceGroup/FenceWoodLowLong01 (3)/FenceWoodLow01/Collision/Collision"
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "FenceGroup/FenceWoodLowLong01 (8)/FenceWoodLow01/Collision/Collision"
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "FenceGroup/FenceWoodLowLong01 (8)/FenceWoodLow01/Collision/Collision"
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "FenceGroup/FenceWoodLowLong01 (16)/FenceWoodLow01/Collision/Collision"
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "FenceGroup/FenceWoodLowLong01 (16)/FenceWoodLow01/Collision/Collision"
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "FenceGroup/FenceWoodLowLong01 (5)/FenceWoodLow01/Collision/Collision"
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "FenceGroup/FenceWoodLowLong01 (5)/FenceWoodLow01/Collision/Collision"
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "FenceGroup/FenceWoodLowLong01 (3)/FenceWoodLow01/Collision/Collision"
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "FenceGroup/FenceWoodLowLong01 (3)/FenceWoodLow01/Collision/Collision"
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "FenceGroup/FenceWoodLowLong01 (15)/FenceWoodLow01/Collision/Collision"
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "FenceGroup/FenceWoodLowLong01 (15)/FenceWoodLow01/Collision/Collision"
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "FenceGroup/FenceWoodLowLong01 (1)/FenceWoodLow01 (2)/Collision/Collision"
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "FenceGroup/FenceWoodLowLong01 (3)/FenceWoodLow01 (2)/Collision/Collision"
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "FenceGroup/FenceWoodLowLong01 (4)/FenceWoodLow01 (5)/Collision/Collision"
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "FenceGroup/FenceWoodLowLong01/FenceWoodLow01 (5)/Collision/Collision"
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "FenceGroup/FenceWoodLowLong01 (6)/FenceWoodLow01/Collision/Collision"
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "FenceGroup/FenceWoodLowLong01 (6)/FenceWoodLow01/Collision/Collision"
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "FenceGroup/FenceWoodLowLong01 (18)/FenceWoodLow01 (5)/Collision/Collision"
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "FenceGroup/FenceWoodLowLong01 (18)/FenceWoodLow01 (10)/Collision/Collision"
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "FenceGroup/FenceWoodLowLong01 (18)/FenceWoodLow01 (2)/Collision/Collision"
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "FenceGroup/FenceWoodLowLong01 (18)/FenceWoodLow01 (13)/Collision/Collision"
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "FenceGroup/FenceWoodLowLong01 (18)/FenceWoodLow01 (13)/Collision/Collision"
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "FenceGroup/FenceWoodLowLong01 (18)/FenceWoodLow01 (10)/Collision/Collision"
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "FenceGroup/FenceWoodLowLong01 (18)/FenceWoodLow01 (5)/Collision/Collision"
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "FenceGroup/FenceWoodLowLong01 (18)/FenceWoodLow01 (2)/Collision/Collision"
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "FenceGroup/FenceWoodLowLong01 (2)/FenceWoodLow01 (5)/Collision/Collision"
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "FenceGroup/FenceWoodLowLong01 (11)/FenceWoodLow01/Collision/Collision"
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "FenceGroup/FenceWoodLowLong01 (11)/FenceWoodLow01/Collision/Collision"
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "FenceGroup/FenceWoodLowLong01 (1)/FenceWoodLow01/Collision/Collision"
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "FenceGroup/FenceWoodLowLong01 (1)/FenceWoodLow01/Collision/Collision"
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "FenceGroup/FenceWoodLowLong01 (11)/FenceWoodLow01/Collision/Collision"
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "FenceGroup/FenceWoodLowLong01 (11)/FenceWoodLow01/Collision/Collision"
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "FenceGroup/FenceWoodLowLong01 (13)/FenceWoodLow01 (13)/Collision/Collision"
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "FenceGroup/FenceWoodLowLong01 (13)/FenceWoodLow01 (13)/Collision/Collision"
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "FenceGroup/FenceWoodLowLong01 (13)/FenceWoodLow01 (2)/Collision/Collision"
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "FenceGroup/FenceWoodLowLong01 (13)/FenceWoodLow01 (10)/Collision/Collision"
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "FenceGroup/FenceWoodLowLong01 (13)/FenceWoodLow01 (5)/Collision/Collision"
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "FenceGroup/FenceWoodLowLong01 (13)/FenceWoodLow01 (2)/Collision/Collision"
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "FenceGroup/FenceWoodLowLong01 (13)/FenceWoodLow01 (5)/Collision/Collision"
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "FenceGroup/FenceWoodLowLong01 (13)/FenceWoodLow01 (10)/Collision/Collision"
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "FenceGroup/FenceWoodLowLong01/FenceWoodLow01 (5)/Collision/Collision"
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "FenceGroup/FenceWoodLowLong01 (17)/FenceWoodLow01/Collision/Collision"
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "FenceGroup/FenceWoodLowLong01 (17)/FenceWoodLow01/Collision/Collision"
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "FenceGroup/FenceWoodLowLong01 (3)/FenceWoodLow01 (10)/Collision/Collision"
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "FenceGroup/FenceWoodLowLong01 (3)/FenceWoodLow01/Collision/Collision"
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "FenceGroup/FenceWoodLowLong01 (3)/FenceWoodLow01/Collision/Collision"
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "FenceGroup/FenceWoodLowLong01 (3)/FenceWoodLow01/Collision/Collision"
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "FenceGroup/FenceWoodLowLong01 (3)/FenceWoodLow01/Collision/Collision"
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "FenceGroup/FenceWoodLowLong01 (8)/FenceWoodLow01/Collision/Collision"
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "FenceGroup/FenceWoodLowLong01 (8)/FenceWoodLow01/Collision/Collision"
+Level setup:
+Flags: FreeFlight
+Environment: StrawBale
+Type: DRONE
+Name: Borrum 180 X
+Status: Internal
+Local ID: ad9a90d5-f960-4cc8-aa66-930ea3ee0e7b
+Could not find a drone telemetry configuration file at /home/seger/.config/unity3d/LuGus Studios/Liftoff/TelemetryConfiguration.json.
+requesting resize 1920 x 1080
+Using native desktop resolution 1920 x 1080
+requesting fullscreen 1920 x 1080 at 0 Hz
+Desktop is 1920 x 1080 @ 60 Hz
+Material 'TealSportLed01 (Instance)' with Shader 'Liftoff/TealLed' doesn't have a texture property '_ColorMask'
+Could not find a drone telemetry configuration file at /home/seger/.config/unity3d/LuGus Studios/Liftoff/TelemetryConfiguration.json.
+================================= SCENE LOAD START: MainMenu ======================================
+Unloading 5 Unused Serialized files (Serialized files now loaded: 37)
+UnloadTime: 97.626025 ms
+Unloading 18291 unused Assets to reduce memory usage. Loaded Objects now: 4683.
+Total: 373.456333 ms (FindLiveObjects: 0.942578 ms CreateObjectMapping: 1.392705 ms MarkObjects: 27.762816 ms  DeleteObjects: 343.351180 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 20)
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 4672.
+Total: 26.879184 ms (FindLiveObjects: 0.269448 ms CreateObjectMapping: 0.117962 ms MarkObjects: 24.944581 ms  DeleteObjects: 1.541467 ms)
+
+================================= SCENE LOAD END: MainMenu ======================================
+Curl error 42: Callback aborted
+Memory Statistics:
+[ALLOC_TEMP_TLS] TLS Allocator
+  StackAllocators : 
+    [ALLOC_TEMP_MAIN]
+      Peak usage frame count: [0-1.0 KB]: 10550 frames, [1.0 KB-2.0 KB]: 1 frames, [2.0 KB-4.0 KB]: 4072 frames, [4.0 KB-8.0 KB]: 1541 frames, [8.0 KB-16.0 KB]: 17455 frames, [16.0 KB-32.0 KB]: 964 frames, [32.0 KB-64.0 KB]: 35 frames, [64.0 KB-128.0 KB]: 39 frames, [128.0 KB-256.0 KB]: 17 frames, [256.0 KB-0.5 MB]: 53 frames, [0.5 MB-1.0 MB]: 3 frames, [1.0 MB-2.0 MB]: 6 frames, [2.0 MB-4.0 MB]: 3 frames, [4.0 MB-8.0 MB]: 10 frames
+      Initial Block Size 4.0 MB
+      Current Block Size 8.0 MB
+      Peak Allocated Bytes 8.0 MB
+      Overflow Count 27154
+    [ALLOC_TEMP_Loading.AsyncRead]
+      Initial Block Size 64.0 KB
+      Current Block Size 128.0 KB
+      Peak Allocated Bytes 127.9 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Loading.PreloadManager]
+      Initial Block Size 256.0 KB
+      Current Block Size 0.5 MB
+      Peak Allocated Bytes 386.5 KB
+      Overflow Count 5195
+    [ALLOC_TEMP_Background Job.Worker 8]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 0 B
+      Overflow Count 0
+    [ALLOC_TEMP_Job.Worker 6]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 89.2 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Job.Worker 0]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 89.3 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 10]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 0 B
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 9]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 65 B
+      Overflow Count 0
+    [ALLOC_TEMP_Job.Worker 5]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 89.5 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 14]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 0 B
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 6]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 65 B
+      Overflow Count 0
+    [ALLOC_TEMP_Job.Worker 4]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 89.2 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Job.Worker 3]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 85.8 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 12]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 65 B
+      Overflow Count 0
+    [ALLOC_TEMP_EnlightenWorker] x 4
+      Initial Block Size 64.0 KB
+      Current Block Size 64.0 KB
+      Peak Allocated Bytes 0 B
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 15]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 0 B
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 1]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 0 B
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 2]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 0 B
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 7]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 0 B
+      Overflow Count 0
+    [ALLOC_TEMP_UnityGfxDeviceWorker]
+      Initial Block Size 256.0 KB
+      Current Block Size 260.0 KB
+      Peak Allocated Bytes 256.0 KB
+      Overflow Count 178
+    [ALLOC_TEMP_AssetGarbageCollectorHelper] x 7
+      Initial Block Size 64.0 KB
+      Current Block Size 64.0 KB
+      Peak Allocated Bytes 0 B
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 5]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 0 B
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 13]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 0 B
+      Overflow Count 0
+    [ALLOC_TEMP_Job.Worker 1]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 89.2 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Job.Worker 2]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 86.0 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 3]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 65 B
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 11]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 0 B
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 0]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 110 B
+      Overflow Count 1
+    [ALLOC_TEMP_CloudJob.Worker 0]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 11.0 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 4]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 0 B
+      Overflow Count 0
+    [ALLOC_TEMP_BatchDeleteObjects]
+      Initial Block Size 64.0 KB
+      Current Block Size 64.0 KB
+      Peak Allocated Bytes 0 B
+      Overflow Count 0
+[ALLOC_DEFAULT] Dual Thread Allocator
+  Peak main deferred allocation count 22312
+    [ALLOC_BUCKET]
+      Large Block size 4.0 MB
+      Used Block count 1
+      Peak Allocated bytes 4.0 MB
+      Failed Allocations. Bucket layout:
+        16B: 17 Subsections = 17408 buckets. Failed count: 900793
+        32B: 12 Subsections = 6144 buckets. Failed count: 736883
+        48B: 46 Subsections = 15701 buckets. Failed count: 1660471
+        64B: 119 Subsections = 30464 buckets. Failed count: 541880
+        80B: 25 Subsections = 5120 buckets. Failed count: 135447
+        96B: 32 Subsections = 5461 buckets. Failed count: 908491
+        112B: 3 Subsections = 438 buckets. Failed count: 213507
+        128B: 2 Subsections = 256 buckets. Failed count: 174371
+    [ALLOC_DEFAULT_MAIN]
+      Peak usage frame count: [16.0 MB-32.0 MB]: 7030 frames, [32.0 MB-64.0 MB]: 12760 frames, [64.0 MB-128.0 MB]: 14955 frames, [128.0 MB-256.0 MB]: 4 frames
+      Requested Block Size 16.0 MB
+      Peak Block count 6
+      Peak Allocated memory 212.8 MB
+      Peak Large allocation bytes 188.7 MB
+    [ALLOC_DEFAULT_THREAD]
+      Peak usage frame count: [4.0 MB-8.0 MB]: 10127 frames, [8.0 MB-16.0 MB]: 5950 frames, [16.0 MB-32.0 MB]: 919 frames, [32.0 MB-64.0 MB]: 17656 frames, [64.0 MB-128.0 MB]: 25 frames, [128.0 MB-256.0 MB]: 72 frames
+      Requested Block Size 16.0 MB
+      Peak Block count 4
+      Peak Allocated memory 190.8 MB
+      Peak Large allocation bytes 167.3 MB
+[ALLOC_TEMP_JOB_1_FRAME]
+  Initial Block Size 2.0 MB
+  Used Block Count 1
+  Overflow Count (too large) 0
+  Overflow Count (full) 0
+[ALLOC_TEMP_JOB_2_FRAMES]
+  Initial Block Size 2.0 MB
+  Used Block Count 1
+  Overflow Count (too large) 0
+  Overflow Count (full) 0
+[ALLOC_TEMP_JOB_4_FRAMES (JobTemp)]
+  Initial Block Size 2.0 MB
+  Used Block Count 3
+  Overflow Count (too large) 5
+  Overflow Count (full) 0
+[ALLOC_TEMP_JOB_ASYNC (Background)]
+  Initial Block Size 1.0 MB
+  Used Block Count 15
+  Overflow Count (too large) 12
+  Overflow Count (full) 0
+[ALLOC_GFX] Dual Thread Allocator
+  Peak main deferred allocation count 91
+    [ALLOC_BUCKET]
+      Large Block size 4.0 MB
+      Used Block count 1
+      Peak Allocated bytes 4.0 MB
+      Failed Allocations. Bucket layout:
+        16B: 17 Subsections = 17408 buckets. Failed count: 900793
+        32B: 12 Subsections = 6144 buckets. Failed count: 736883
+        48B: 46 Subsections = 15701 buckets. Failed count: 1660471
+        64B: 119 Subsections = 30464 buckets. Failed count: 541880
+        80B: 25 Subsections = 5120 buckets. Failed count: 135447
+        96B: 32 Subsections = 5461 buckets. Failed count: 908491
+        112B: 3 Subsections = 438 buckets. Failed count: 213507
+        128B: 2 Subsections = 256 buckets. Failed count: 174371
+    [ALLOC_GFX_MAIN]
+      Peak usage frame count: [1.0 MB-2.0 MB]: 10232 frames, [2.0 MB-4.0 MB]: 186 frames, [4.0 MB-8.0 MB]: 5918 frames, [8.0 MB-16.0 MB]: 428 frames, [16.0 MB-32.0 MB]: 61 frames, [32.0 MB-64.0 MB]: 8 frames, [64.0 MB-128.0 MB]: 17584 frames, [128.0 MB-256.0 MB]: 332 frames
+      Requested Block Size 16.0 MB
+      Peak Block count 17
+      Peak Allocated memory 163.4 MB
+      Peak Large allocation bytes 18.0 MB
+    [ALLOC_GFX_THREAD]
+      Peak usage frame count: [1.0 KB-2.0 KB]: 2 frames, [2.0 KB-4.0 KB]: 5 frames, [4.0 KB-8.0 KB]: 2 frames, [16.0 KB-32.0 KB]: 10125 frames, [32.0 KB-64.0 KB]: 28 frames, [256.0 KB-0.5 MB]: 1 frames, [0.5 MB-1.0 MB]: 25 frames, [2.0 MB-4.0 MB]: 5961 frames, [8.0 MB-16.0 MB]: 399 frames, [16.0 MB-32.0 MB]: 209 frames, [32.0 MB-64.0 MB]: 285 frames, [64.0 MB-128.0 MB]: 17661 frames, [128.0 MB-256.0 MB]: 46 frames
+      Requested Block Size 16.0 MB
+      Peak Block count 9
+      Peak Allocated memory 156.5 MB
+      Peak Large allocation bytes 21.3 MB
+[ALLOC_CACHEOBJECTS] Dual Thread Allocator
+  Peak main deferred allocation count 146882
+    [ALLOC_BUCKET]
+      Large Block size 4.0 MB
+      Used Block count 1
+      Peak Allocated bytes 4.0 MB
+      Failed Allocations. Bucket layout:
+        16B: 17 Subsections = 17408 buckets. Failed count: 900793
+        32B: 12 Subsections = 6144 buckets. Failed count: 736883
+        48B: 46 Subsections = 15701 buckets. Failed count: 1660471
+        64B: 119 Subsections = 30464 buckets. Failed count: 541880
+        80B: 25 Subsections = 5120 buckets. Failed count: 135447
+        96B: 32 Subsections = 5461 buckets. Failed count: 908491
+        112B: 3 Subsections = 438 buckets. Failed count: 213507
+        128B: 2 Subsections = 256 buckets. Failed count: 174371
+    [ALLOC_CACHEOBJECTS_MAIN]
+      Peak usage frame count: [64.0 MB-128.0 MB]: 11048 frames, [128.0 MB-256.0 MB]: 13 frames, [256.0 MB-0.50 GB]: 17579 frames, [0.50 GB-1.00 GB]: 1 frames, [1.00 GB-2.00 GB]: 6104 frames, [2.00 GB-4.00 GB]: 4 frames
+      Requested Block Size 4.0 MB
+      Peak Block count 349
+      Peak Allocated memory 2.24 GB
+      Peak Large allocation bytes 1.08 GB
+    [ALLOC_CACHEOBJECTS_THREAD]
+      Peak usage frame count: [64.0 KB-128.0 KB]: 10123 frames, [128.0 KB-256.0 KB]: 1 frames, [2.0 MB-4.0 MB]: 1 frames, [8.0 MB-16.0 MB]: 240 frames, [16.0 MB-32.0 MB]: 24 frames, [32.0 MB-64.0 MB]: 6384 frames, [128.0 MB-256.0 MB]: 6 frames, [256.0 MB-0.50 GB]: 8 frames, [0.50 GB-1.00 GB]: 15 frames, [1.00 GB-2.00 GB]: 72 frames, [2.00 GB-4.00 GB]: 17730 frames, [4.00 GB-8.00 GB]: 145 frames
+      Requested Block Size 4.0 MB
+      Peak Block count 825
+      Peak Allocated memory 5.97 GB
+      Peak Large allocation bytes 2.83 GB
+[ALLOC_TYPETREE] Dual Thread Allocator
+  Peak main deferred allocation count 0
+    [ALLOC_BUCKET]
+      Large Block size 4.0 MB
+      Used Block count 1
+      Peak Allocated bytes 4.0 MB
+      Failed Allocations. Bucket layout:
+        16B: 17 Subsections = 17408 buckets. Failed count: 900793
+        32B: 12 Subsections = 6144 buckets. Failed count: 736883
+        48B: 46 Subsections = 15701 buckets. Failed count: 1660471
+        64B: 119 Subsections = 30464 buckets. Failed count: 541880
+        80B: 25 Subsections = 5120 buckets. Failed count: 135447
+        96B: 32 Subsections = 5461 buckets. Failed count: 908491
+        112B: 3 Subsections = 438 buckets. Failed count: 213507
+        128B: 2 Subsections = 256 buckets. Failed count: 174371
+    [ALLOC_TYPETREE_MAIN]
+      Peak usage frame count: [1.0 MB-2.0 MB]: 10279 frames, [2.0 MB-4.0 MB]: 23733 frames, [4.0 MB-8.0 MB]: 737 frames
+      Requested Block Size 2.0 MB
+      Peak Block count 3
+      Peak Allocated memory 4.7 MB
+      Peak Large allocation bytes 0 B
+    [ALLOC_TYPETREE_THREAD]
+      Peak usage frame count: [2.0 KB-4.0 KB]: 10131 frames, [4.0 KB-8.0 KB]: 5 frames, [128.0 KB-256.0 KB]: 1 frames, [256.0 KB-0.5 MB]: 6583 frames, [0.5 MB-1.0 MB]: 29 frames, [1.0 MB-2.0 MB]: 18000 frames
+      Requested Block Size 2.0 MB
+      Peak Block count 1
+      Peak Allocated memory 1.5 MB
+      Peak Large allocation bytes 0 B
