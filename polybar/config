@@ -17,10 +17,17 @@
 ;==========================================================
 #
 [colors]
-background = #101010
+background = #11111b
 background-alt = #373B41
-foreground = #f6c2a5
-primary = #d22f32
+foreground = #cdd6f4
+primary = #b4befe
+green = #a6e3a1
+teal = #94e2d5
+sapphire = #74c7ec
+lavender = #b4befe
+mauve = #cba6f7
+red = #f38ba8
+pink = #f5c2e7
 secondary = #8ABEB7
 alert = #A54242
 disabled = #707880
@@ -80,7 +87,7 @@ type = internal/xworkspaces
 
 label-active = %name%
 label-active-background = ${colors.background-alt}
-label-active-underline= ${colors.primary}
+label-active-underline= ${colors.red}
 label-active-padding = 1
 
 label-occupied = %name%
@@ -108,7 +115,7 @@ mount-0-foreground = ${colors.primary}
 
 label-mounted = %mountpoint%%{F-} %percentage_used%%
 # label-mounted = %{F#F0C674}%mountpoint%%{F-} %percentage_used%%
-label-mounted-foreground = ${colors.primary}
+label-mounted-foreground = ${colors.green}
 
 label-unmounted = %mountpoint% not mounted
 label-unmounted-foreground = ${colors.disabled}
@@ -216,7 +223,7 @@ label-full = Fully charged
 ; New in version 3.6.0
 label-low = BATTERY LOW
 
-ramp-capacity-foreground = ${colors.primary}
+ramp-capacity-foreground = ${colors.sapphire}
 ; Only applies if <ramp-capacity> is used
 ramp-capacity-0 =   
 ramp-capacity-1 = 
@@ -227,7 +234,7 @@ ramp-capacity-4 = 
 ; Only applies if <bar-capacity> is used
 bar-capacity-width = 10
 
-animation-charging-foreground = ${colors.primary}
+animation-charging-foreground = ${colors.sapphire}
 ; Only applies if <animation-charging> is used
 animation-charging-0 = 
 animation-charging-1 = 
@@ -262,7 +269,7 @@ animation-low-framerate = 200
 type = internal/pulseaudio
 
 format-volume-prefix = "󰕾 "
-format-volume-prefix-foreground = ${colors.primary}
+format-volume-prefix-foreground = ${colors.teal}
 format-volume = <label-volume>
 
 label-volume = %percentage%%
@@ -286,14 +293,14 @@ label-indicator-background = ${colors.secondary}
 type = internal/memory
 interval = 2
 format-prefix = "󰍛 "
-format-prefix-foreground = ${colors.primary}
+format-prefix-foreground = ${colors.lavender}
 label = %percentage_used:2%%
 
 [module/cpu]
 type = internal/cpu
 interval = 2
 format-prefix = ""
-format-prefix-foreground = ${colors.primary}
+format-prefix-foreground = ${colors.mauve}
 label = %percentage:2%%
 
 [network-base]

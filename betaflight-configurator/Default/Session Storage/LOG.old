@@ -1,3 +1,8 @@
-2024/04/26-14:28:59.442 1b4f Reusing MANIFEST /home/seger/.config/betaflight-configurator/Default/Session Storage/MANIFEST-000001
-2024/04/26-14:28:59.443 1b4f Recovering log #110
-2024/04/26-14:28:59.444 1b4f Reusing old log /home/seger/.config/betaflight-configurator/Default/Session Storage/000110.log 
+2024/05/22-09:56:31.234 8f6 Reusing MANIFEST /home/seger/.config/betaflight-configurator/Default/Session Storage/MANIFEST-000001
+2024/05/22-09:56:31.235 8f6 Recovering log #133
+2024/05/22-09:56:31.241 8f6 Level-0 table #138: started
+2024/05/22-09:56:31.251 8f6 Level-0 table #138: 200977 bytes OK
+2024/05/22-09:56:31.255 8f6 Delete type=0 #133
+2024/05/22-09:56:32.037 8f8 Level-0 table #141: started
+2024/05/22-09:56:32.044 8f8 Level-0 table #141: 200720 bytes OK
+2024/05/22-09:56:32.049 8f8 Delete type=0 #139

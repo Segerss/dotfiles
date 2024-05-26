@@ -8,7 +8,7 @@ directory=$script_dir
 # Check if the directory exists
 if [ -d "$directory" ]; then
     # Get a list of .png files in the directory
-    png_files=("$directory"/*.jpg)
+    png_files=("$directory"/*.png)
     
     # Check if there are any .png files
     if [ ${#png_files[@]} -gt 0 ]; then
