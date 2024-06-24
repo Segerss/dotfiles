@@ -109,7 +109,7 @@ def get_currently_playing():
 current_time_seconds = time.time()
 
 
-truncate_length = 30
+truncate_length = 40
 amount_of_spaces = 3
 
 

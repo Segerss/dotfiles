@@ -10,7 +10,12 @@ killall -q polybar
 echo "---" | tee -a /tmp/polybar1.log 
 polybar -r bar 2>&1 | tee -a /tmp/polybar1.log & disown
 # polybar bar2 2>&1 | tee -a /tmp/polybar2.log & disown
-
+for monitor in $(xrandr --query | grep " connected" | cut -d" " -f1); do
+    echo "Starting top bar on monitor '$monitor'"
+    MONITOR="$monitor" polybar top &
+    # echo "Starting bottom bar on monitor '$monitor'"
+    # MONITOR="$monitor" polybar bottom &
+done
 echo "Bars launched..."
 
 

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Config>
+	<ShowStartupGuide>False</ShowStartupGuide>
+	<OSDDefault>False</OSDDefault>
+	<QualitySetting>0</QualitySetting>
+	<ShadowDistance>20</ShadowDistance>
+	<VSyncMode>0</VSyncMode>
+	<LimitFramerate>True</LimitFramerate>
+	<FramerateLimit>60</FramerateLimit>
+	<Motion_Blur_On>False</Motion_Blur_On>
+	<AmplifyBloom.AmplifyBloomEffect_On>False</AmplifyBloom.AmplifyBloomEffect_On>
+	<AmplifyOcclusionEffect_On>False</AmplifyOcclusionEffect_On>
+	<Depth_Of_Field_On>False</Depth_Of_Field_On>
+	<Anti_Aliasing_On>False</Anti_Aliasing_On>
+	<PreferNightFeverEnvironments>False</PreferNightFeverEnvironments>
+	<PreferSlipstreamAssets>False</PreferSlipstreamAssets>
+</Config>

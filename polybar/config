@@ -357,7 +357,7 @@ tail = true
 interval = 1
 ; prefix symbol is shown before the text
 format-prefix = " "
-format-prefix-foreground = ${colors.primary}
+format-prefix-foreground = ${colors.green}
 format = <label>
 # exec = ~/.config/polybar/custom/scroll_spotify_status.sh
 # exec = ~/.config/polybar/custom/get_music_status.py

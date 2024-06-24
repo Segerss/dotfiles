@@ -3,7 +3,6 @@
 # Should you change your keyboard layout some time, delete
 # this file and re-run i3-config-wizard(1).
 #
-exec_always --no-startup-id "xrandr | grep 'HDMI-A-0 connected' && xrandr --output eDP1 --auto --output HDMI1 --auto --bottom-of eDP1"
 # exec_always --no-startup-id "xrandr --output HDMI-1 --auto --left-of LVDS-1"
 
 

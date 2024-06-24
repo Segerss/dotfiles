@@ -1,3 +1,3 @@
-2024/05/22-10:04:04.153 1e38 Reusing MANIFEST /home/seger/.config/inav-configurator/Default/Sync Data/LevelDB/MANIFEST-000001
-2024/05/22-10:04:04.153 1e38 Recovering log #3
-2024/05/22-10:04:04.154 1e38 Reusing old log /home/seger/.config/inav-configurator/Default/Sync Data/LevelDB/000003.log 
+2024/06/22-13:56:08.456 12d6 Reusing MANIFEST /home/seger/.config/inav-configurator/Default/Sync Data/LevelDB/MANIFEST-000001
+2024/06/22-13:56:08.456 12d6 Recovering log #3
+2024/06/22-13:56:08.457 12d6 Reusing old log /home/seger/.config/inav-configurator/Default/Sync Data/LevelDB/000003.log 

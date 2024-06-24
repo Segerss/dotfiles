@@ -107,10 +107,12 @@ alias r="python3 ~/bin/ranger.py"
 alias v="nvim" 
 alias i="sudo apt-get install " 
 
-alias dushs="du * -sh | sort -h" 
-alias dushas="du .* * -sh | sort -h" 
+alias dushs="sudo du * -sh | sort -h" 
+alias dushas="sudo du .* * -sh | sort -h" 
 
 alias swindowsvm='VBoxManage startvm "Windows"'
+
+alias duplicatescreens="xrandr --auto; xrandr --output DisplayPort-0 --same-as eDP" 
 # alias rbg="~/Documents/Wallpapers/randombackground.sh" 
 
 # alias androidstudio="(/usr/local/android-studio/bin/studio.sh &> /dev/null &)" 

@@ -1,5 +1,5 @@
 [Desktop Entry]
 Type=Application
 Name=Mathworks Service Host
-Exec=/home/seger/.MathWorks/ServiceHost/seger-IdeaPad/v2024.5.0.3/bin/glnxa64/MathWorksServiceHost service --realm-id companion@prod@production
+Exec=/home/seger/.MathWorks/ServiceHost/-mw_shared_installs/v2024.6.0.6/bin/glnxa64/MathWorksServiceHost service --realm-id companion@prod@production
 Terminal=false

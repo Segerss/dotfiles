@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<UserData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <gameVersion>1.6.3</gameVersion>
+  <reInputInputSettings>
+    <gameVersion />
+    <keyboardMaps />
+  </reInputInputSettings>
+  <reInputControllerAdjustments>
+    <controllerIdentifier>LinuxLinuxRadiomasterBoxerJoystick203084f541209-0000-0000-0000-504944564944</controllerIdentifier>
+    <throttleZeroPoint>0</throttleZeroPoint>
+  </reInputControllerAdjustments>
+  <reInputControllerAdjustments>
+    <controllerIdentifier>LinuxLinuxFlyskyFS-i6XCN3113779a1284e-0000-0000-0000-504944564944</controllerIdentifier>
+    <throttleZeroPoint>0</throttleZeroPoint>
+  </reInputControllerAdjustments>
+  <reInputControllerAdjustments>
+    <controllerIdentifier>LinuxLinuxRadiomasterTX12Joystick203084f541209-0000-0000-0000-504944564944</controllerIdentifier>
+    <throttleZeroPoint>0</throttleZeroPoint>
+  </reInputControllerAdjustments>
+  <lastConnectedControllerHardwareID>LinuxLinuxRadiomasterTX12Joystick203084f541209-0000-0000-0000-504944564944</lastConnectedControllerHardwareID>
+  <droneConfigurationID>e01cb959-0087-4d8c-a188-0be846ba909f</droneConfigurationID>
+  <gameSettings>
+    <godMode>true</godMode>
+    <batteryMode>false</batteryMode>
+    <usePropwash>false</usePropwash>
+    <propwashIntensity>42</propwashIntensity>
+    <showDroneTrails>true</showDroneTrails>
+    <showPropellers>true</showPropellers>
+    <alwaysDetectStunts>false</alwaysDetectStunts>
+    <useCameraNoise>false</useCameraNoise>
+    <hideProgression>false</hideProgression>
+    <showLapTimeDuringRace>true</showLapTimeDuringRace>
+    <preferredCameraViewpoint>FIRSTPERSON</preferredCameraViewpoint>
+    <ghostModeType>Community</ghostModeType>
+    <unitSystemType>Metric</unitSystemType>
+    <isRecordingGhostData>true</isRecordingGhostData>
+    <maxNumberOfGhostAutoSaves>20</maxNumberOfGhostAutoSaves>
+    <showOSDAxisVisualization>true</showOSDAxisVisualization>
+    <preferedMultiplayerColor>
+      <r>1</r>
+      <g>1</g>
+      <b>1</b>
+      <a>1</a>
+    </preferedMultiplayerColor>
+    <customColors>
+      <Color>
+        <r>1</r>
+        <g>0</g>
+        <b>0</b>
+        <a>1</a>
+      </Color>
+      <Color>
+        <r>0</r>
+        <g>1</g>
+        <b>0</b>
+        <a>1</a>
+      </Color>
+      <Color>
+        <r>0</r>
+        <g>0</g>
+        <b>1</b>
+        <a>1</a>
+      </Color>
+      <Color>
+        <r>1</r>
+        <g>0.921568632</g>
+        <b>0.0156862754</b>
+        <a>1</a>
+      </Color>
+      <Color>
+        <r>0</r>
+        <g>1</g>
+        <b>1</b>
+        <a>1</a>
+      </Color>
+    </customColors>
+  </gameSettings>
+  <newSkinIDs />
+  <I2UnloadAssets>true</I2UnloadAssets>
+  <lastPlaySession xsi:type="FreeFlightSessionData">
+    <environment>BandoCity</environment>
+    <environmentVariant>Default</environmentVariant>
+    <includeSlipstream>false</includeSlipstream>
+    <IncludeSlipstreamAssets>false</IncludeSlipstreamAssets>
+  </lastPlaySession>
+  <favoriteContent>
+    <environments />
+    <droneSetups />
+    <tracks />
+    <races />
+  </favoriteContent>
+  <tosVersion>-1</tosVersion>
+</UserData>
